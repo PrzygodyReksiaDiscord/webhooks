@@ -1,0 +1,197 @@
+{
+  "version": 7,
+  "backups": [
+    {
+      "name": "regulamin-rules-backup",
+      "messages": [
+        {
+          "data": {
+            "content": "## :flag_pl: Spis treści:\n- [Regulamin serwera Reksio Discord](<https://discord.com/channels/822931925618524240/1180897656663453840/1195396445394706492>),\n- [Taryfikator kar](<https://discord.com/channels/822931925618524240/1180897656663453840/1195396452428550184>),\n- [Netykieta](<https://discord.com/channels/822931925618524240/1180897656663453840/1195396453993025636>).\n## :flag_us: Table of contents:\n- [Reksio Discord rules](<https://discord.com/channels/822931925618524240/1180897656663453840/1195396455951765637>),\n- [Tariff of punishments](<https://discord.com/channels/822931925618524240/1180897656663453840/1195396461249171526>),\n- [Netiquette](<https://discord.com/channels/822931925618524240/1180897656663453840/1195396466164891690>).",
+            "embeds": null,
+            "attachments": []
+          },
+          "reference": [
+            "https://discord.com/channels/822931925618524240/1180897656663453840/1195396442697777286",
+            "https://discord.com/channels/822931925618524240/1330325042273456168/1330326158692057128"
+          ]
+        },
+        {
+          "data": {
+            "content": "# :flag_pl: Regulamin serwera Reksio Discord",
+            "embeds": [
+              {
+                "description": "1. Główna tematyka tego serwera to Przygody Reksia, ale inne tematy również są na nim mile widziane.\n\n2. Do innych odnosimy się z szacunkiem. Wyzywanie innych użytkowników jest surowo zakazane! Niedozwolone jest również prowokowanie innych do kłótni i nadużywanie pingów.\n\n3. Przekleństwa są dozwolone, ale doradzamy umiar. Najlepiej je cenzurować przy pomocy ||spoilerów|| lub zastępować część liter innymi znakami. \n\n4. Obowiązuje zakaz treści NSFW i obraźliwych. Obejmuje to wiadomości tekstowe, obrazy i linki zawierające nagość, seks, dotkliwą przemoc i inne poważnie niepokojące treści. Nie akceptujemy również oszustw, wyłudzania danych i celowego wprowadzania w błąd innych użytkowników. \n\n5. Dyskutowanie kontrowersyjnych tematów, zwłaszcza politycznych, a także wstawianie treści powiązanych z nimi jest dozwolone wyłącznie na kanale ⁠⁠<#909046538091778048>. Dostęp do niego uzyskuje się, wybierając odpowiednią rolę w <#909039228904689675>.\n\n6. Spamowanie wiadomościami jest dozwolone wyłącznie na kanale <#909046498166186036> (jednak z poszanowaniem przypiętych tam zasad), zaś komendami do obsługi botów na <#909046513085321237>, a w przypadku botów muzycznych na <#913174618997665882> i kanałach głosowych. \n\n7. Rozmawiamy wyłącznie na odpowiednich kanałach. Tak zwane off-topowanie nie jest zbyt uprzejme! Poza komendami związanymi z hazardem, zarezerwowanym dla <#909046513085321237> i komendami muzycznymi, można korzystać z botów na wszystkich kanałach, ale w umiarkowanych ilościach i w kontekście prowadzonej rozmowy.",
+                "color": 5814783
+              }
+            ],
+            "attachments": []
+          },
+          "reference": [
+            "https://discord.com/channels/822931925618524240/1180897656663453840/1195396445394706492",
+            "https://discord.com/channels/822931925618524240/1330325042273456168/1330326160315383951"
+          ]
+        },
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "description": "8. Do zamieszczania reklam nie potrzeba zgody administratora. Wymagane jest jedynie, by reklamowane treści były zgodne z naszym regulaminem. Ogłoszenia dotyczące działalności artystycznej można zamieszczać na kanałach i wątkach twórczości, pozostałe powinny trafić na <#909046498166186036>. \n\n9. Wszelkie zabawy i RPG-i mogą być organizowane wyłącznie za zgodą administracji. \n\n10. Udostępniając na serwerze reksiową twórczość swojego autorstwa lub tworząc reksiowe emotki na jego potrzeby, wyrażasz zgodę na kopiowanie i rozpowszechnianie ich przez innych użytkowników.\n\n11. Użytkownicy łamiący regulamin mogą dostać ostrzeżenie, kicka lub przerwę/rolę <@&909039818728673360>, przez co nie będą mieli możliwości udzielania się przez czas określony przez administrację. Łagodniejszą formą wyciszenia jest <@&1071088633366458470>, obejmująca większość kanałów niezwiązanych bezpośrednio z tematyką serwera.\n\n12. Bardziej uciążliwe zachowanie może zakończyć się banem, o którego powodach i długości użytkownik (jeśli kontakt z nim nie stanowi zagrożenia dla serwera) oraz społeczność zostaną poinformowani. Bany i wyciszenia przyznawane są zgodnie z taryfikatorem dostępnym [poniżej](<https://discord.com/channels/822931925618524240/1180897656663453840/1180906803006033970>).\n\n13. Multikonta są dozwolone wyłącznie za zgodą administracji. Niezgłoszone multikonta będą wyrzucane z serwera, a główne konto użytkownika karane ostrzeżeniem lub banem. Użytkownik może zmienić główne konto na serwerze po zgłoszeniu tego zamiaru administracji. Nie można jednak korzystać z tej opcji zbyt często. Mechanizmem zabezpieczającym przed multikontami jest weryfikacja z użyciem bota <@703886990948565003>. Administracja może zadecydować o odebraniu weryfikacji użytkownikowi w przypadku podejrzenia o posiadanie niezgłoszonego multikonta. Ponowna weryfikacja odbywa się automatycznie na kanale <#1318222020520968342>.\n\n14. Użytkownicy są upominani na kanale <#909039706342326304>. Jeżeli nie zgadzasz się z ostrzeżeniem, możesz złożyć skargę na <#909039074059370527>.",
+                "color": 5814783
+              }
+            ],
+            "attachments": []
+          },
+          "reference": [
+            "https://discord.com/channels/822931925618524240/1180897656663453840/1195396447802237010",
+            "https://discord.com/channels/822931925618524240/1330325042273456168/1330326162005561436"
+          ]
+        },
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "description": "15. Jeżeli masz urodziny, możesz poprosić administrację o specjalną, unikatową rangę urodzinową!\n\n16. Ten serwer ma pokojowo współistnieć i współpracować z innymi serwerami i serwisami związanymi z Reksiem. Wszyscy fani Dzielnego Psa i Kreta Kretesa są tu mile widziani niezależnie od poglądów społeczno-politycznych. Z tego powodu serwer zachowuje neutralność światopoglądową, aby użytkownicy mogli się dzielić swoimi opiniami bez przeszkód.\n\n17. Jeśli widzisz coś niezgodnego z zasadami lub sprawiającego, że nie czujesz się bezpiecznie (pomijając rozmowy na kontrowersyjne tematy na <#909046538091778048>), daj znać administracji. Chcemy, by ten serwer był przyjaznym miejscem!\n\n18. Propozycje zmian na serwerze proszę kierować na <#909039074059370527> lub na PW do przedstawicieli administracji lub <@&940690420327923743>. Jeśli chcesz zaangażować się bardziej w budowę serwera, możesz wystartować w wyborach do wspomnianej rady. Działa ona na specjalnych kanałach, do których dostęp, oprócz członków rady, mają również osoby boostujące serwer.\n\n19. Niektóre kanały posiadają (w przypiętych wiadomościach) dodatkowy regulamin, do którego również należy się stosować. Kanały te są wymienione na <#1180897754327826503>. Regulamin z <#909046594421293076> obejmuje również kanały głosowe.",
+                "color": 5814783
+              }
+            ],
+            "attachments": []
+          },
+          "reference": [
+            "https://discord.com/channels/822931925618524240/1180897656663453840/1195396450226548756",
+            "https://discord.com/channels/822931925618524240/1330325042273456168/1330326163599659060"
+          ]
+        },
+        {
+          "data": {
+            "content": "# :flag_pl: Taryfikator kar",
+            "embeds": [
+              {
+                "description": "1. Ostry hejt/groźby - bany od 2 tygodni (najniższy wymiar kary może być też mutem) do roku (zależnie od kumulacji). \n2. Rajdy (i rajdopodobne działanie w pojedynkę) - bany ok. miesiąca lub dłuższe, jeśli bardziej niebezpieczne. \n3. Niewłaściwe treści - osty, muty, bany na tydzień/dwa, chyba że kumulacja, wtedy stopniowo przedłużane. \n4. Wandalizm hakerski i najpoważniejsze nadużycia uprawnień administratorskich - dłuższe bany, nawet wieloletnie. \n5. Jeśli ktoś zostałby skazany prawomocnym wyrokiem za przestępstwo przeciwko członkowi fandomu, może otrzymać muta albo bana maksymalnie tej długości, co zasądzona przez sąd kara. \n6. Reszta - osty, muty, kicki, bany do miesiąca (chyba, że kumulacja, wtedy stopniowo przedłużane). \n7. W przypadku rażącego lub notorycznego łamania regulaminu serwera przez członka administracji możliwa jest jego czasowa lub permanentna degradacja.\n8. Czas spędzony dobrowolnie poza serwerem podczas trwania muta jest traktowany jako alternatywna forma odbywania kary. \n9. Nie ma perm banów dla niemultikont/niebotów, pomijając najcięższe przestępstwa (patrz punkt 5). Ta gwarancja dotyczy tylko osób, które wykazały się pozytywną aktywnością na serwerze. Konta, których jedynym celem jest podjudzanie do kłótni, obrażanie innych użytkowników czy trollowanie mogą być banowane do odwołania. \n10. W wyjątkowych przypadkach możliwe jest przyznanie wyciszenia do odwołania, jeśli użytkownik był karany bardzo często lub bardzo surowo, a mimo to nadal sprawia problemy, łamiąc regulamin. Muty te mogą być poprzedzone czasowym banem. \n11. Pierwsze przewinienia karane możliwie łagodnie. \n12. Częste wchodzenie i wychodzenie z serwera lub zbyt częste zmienianie głównego konta na serwerze (nawet mimo regulaminowego zgłoszenia tego zamiaru administracji) skutkować może ostrzeżeniem, odroczeniem ręcznej weryfikacji (tylko dla nowych kont), a w skrajnych przypadkach - banem.",
+                "color": 5814783
+              }
+            ],
+            "attachments": []
+          },
+          "reference": [
+            "https://discord.com/channels/822931925618524240/1180897656663453840/1195396452428550184",
+            "https://discord.com/channels/822931925618524240/1330325042273456168/1330326164962807809"
+          ]
+        },
+        {
+          "data": {
+            "content": "# :flag_pl: Netykieta",
+            "embeds": [
+              {
+                "description": "1. Do załatwiania problemów prywatnych wykorzystujemy czaty prywatne lub kanał <#909046538091778048> (tylko gdy awantura jest w jakikolwiek sposób związana z poruszanymi na serwerze tematami). Przenoszenie tutaj kłótni z innych części internetu nie jest mile widziane. \n2. Jeśli działalność innego użytkownika cię uraziła - nie daj się sprowokować. Łamanie regulaminu możesz zgłosić kadrze. \n3. Nieuprzejmie jest udostępniać zawartość czatów prywatnych z użytkownikami serwera bez ich zgody, zwłaszcza gdy może to zaszkodzić ich prywatności lub dobremu imieniu. Wyjątek stanowią przypadki oszustw czy nękania - takie sytuacje mogą potencjalnie zaszkodzić większej liczbie użytkowników, dlatego należy zgłaszać je bezpośrednio do władz serwera. Jeśli zirytują cię inne treści wysyłane prywatnie przez użytkowników serwera, pamiętaj, że zawsze możesz zablokować otrzymywanie wiadomości od danej osoby. \n4. Powód sankcji nie musi być bezpośrednio powiązany z regulaminem jeżeli zachowanie użytkownika psuje serwerową atmosferę. \n5. Problemy techniczne występujące na serwerze można zgłaszać na <#909039074059370527>. \n6. Nie wypominamy sobie błędów dla samego ich wypominania. Lepiej zachować spokój niż uporczywie rozgrzebywać stare i zamknięte niekomfortowe sprawy, problemy, dramy. Ciągnięcie polemiki w nieskończoność prowadzi do ostrych, zbędnych kłótni przeszkadzających innym użytkownikom - zwłaszcza, gdy robi się to na kanałach ogólnych z użyciem rynsztokowego słownictwa. Dopuszcza się poruszanie takich kwestii na <#909046538091778048> przy zachowaniu odpowiedniego poziomu kultury osobistej. <:happy:909045208505794590>\n7. Po angielsku można pisać na wszystkich kanałach. Na dłuższe rozmowy w językach innych niż polski zapraszamy na ⁠<#909041188810661898> i <#1173378559037943958>.",
+                "color": 5814783
+              }
+            ],
+            "attachments": []
+          },
+          "reference": [
+            "https://discord.com/channels/822931925618524240/1180897656663453840/1195396453993025636",
+            "https://discord.com/channels/822931925618524240/1330325042273456168/1330326166942257278"
+          ]
+        },
+        {
+          "data": {
+            "content": "# :flag_us: Reksio Discord rules",
+            "embeds": [
+              {
+                "description": "1. The main theme of this server is Rex Adventures games, but other topics are also welcome.\n\n2. We treat others with respect. It is strictly forbidden to be rude to other users! It is also not allowed to abuse pings and to provoke other people to quarrels.\n\n3. Swearing is allowed but we advise moderation. It is best to censor them with ||spoilers|| or replace some letters with other characters. \n\n4. NSFW and offensive content is prohibited. This includes text messages, images, and links that contain nudity, sex, severe violence, or other seriously disturbing content. We neither tolerate fraud nor phishing or intentional misinformation. \n\n5. Discussions over controversial topics, especially political ones, as well as related content are allowed only on the⁠ <#909046538091778048> channel. To access it, you need to choose the appropriate role on <#909039228904689675>.\n\n6. Spamming with messages is allowed only on <#909046498166186036> (but respecting the rules pinned there), with bot commands on <#909046513085321237>, and with music bots commands on <#913174618997665882> and the voice channels. \n\n7. We only talk on the appropriate channels. The off-topic is not very polite! Except for gambling commands reserved for <#909046513085321237> and for music commands, you can use bots on all channels, but in moderation and in the context of the conversation.",
+                "color": 5814783
+              }
+            ],
+            "attachments": []
+          },
+          "reference": [
+            "https://discord.com/channels/822931925618524240/1180897656663453840/1195396455951765637",
+            "https://discord.com/channels/822931925618524240/1330325042273456168/1330326168536092794"
+          ]
+        },
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "description": "8. Advertisement posting does not require administrator permission. It is only necessary that the advertisement does not contradict our rules. Artistic activity announcements shall be posted on art-related channels and threads, and all the others - on <#909046498166186036>. \n\n9. All games and RPGs can be organized only with the permition of the administration.\n\n10. By posting your own Rex arts or creating Rex emotes for this server, you are consenting to copying and distributing them for use by the fandom.\n\n11. Users who break the rules may receive a warning, a kick or Timeout/the <@&909039818728673360> role that makes them unable to write for a period specified by the administration. A milder form of muting is <@&1071088633366458470> (quarantine), which covers most channels not directly related to the server's topic.\n\n12. More bothersome behavior may result in a ban, the reasons and duration of which the user (if contact with him does not pose a threat to the server) and the community will be notified. Bans and mutes are imposed in accordance with the tariff available [below](<https://discord.com/channels/822931925618524240/1180897656663453840/1180906811881160716>).\n\n13. Multiaccounts are allowed only with the administators' permission. Unreported multiaccounts will be kicked out from the server, and the main account will be penalized with warn or ban. A user can replace their account on the server after reporting this intention to the administators, however this option shouldn't be used too often. To prevent multiaccounts, users are verified using a bot (<@703886990948565003>). If administrators suspect someone has an unreported multiaccount, they can take the verification back. Re-verification is automatic and can be done using the panel on <#1318222020520968342>.\n\n14. Users are being warned on <#909039706342326304>. If you don't agree with a warn, you can make a complaint on <#909039074059370527>.",
+                "color": 5814783
+              }
+            ],
+            "attachments": []
+          },
+          "reference": [
+            "https://discord.com/channels/822931925618524240/1180897656663453840/1195396457684021251",
+            "https://discord.com/channels/822931925618524240/1330325042273456168/1330326170130055288"
+          ]
+        },
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "description": "15. If it's your birthday, you can ask the administration for a special, unique birthday rank!\n\n16. This server is supposed to coexist peacefully and cooperate with other servers and services on the subject of Rex. All fans of the Brave Dog and Moles the Mole are welcome here regardless of their socio-political views. For this reason, the server maintains worldview neutrality so that users can share their opinions without any obstacles.\n\n17. If you see anything that is against the rules or makes you feel unsafe (excluding discussions on controversial topics on <#909046538091778048>), let the administration know. We want this server to be a friendly place! \n\n18. Suggestions for changes on the server should be sent on <#909039074059370527> or on priv to the members of administration or <@&940690420327923743> (Server Council). If you intend to engage further in creating the server, you can participate in the election for the Council. It operates on dedicated channels, which - apart from the Council members - may be seen by server boosters.\n\n19. Some channels have additional rules (in pinned messages) which ought to be respected too. Those channels are listed on <#1180897754327826503>. Rules from <#909046594421293076> apply to voice channels as well.",
+                "color": 5814783
+              }
+            ],
+            "attachments": []
+          },
+          "reference": [
+            "https://discord.com/channels/822931925618524240/1180897656663453840/1195396459617587260",
+            "https://discord.com/channels/822931925618524240/1330325042273456168/1330326171249938514"
+          ]
+        },
+        {
+          "data": {
+            "content": "# :flag_us: Tariff of punishments",
+            "embeds": [
+              {
+                "description": "1. Severe hate/threats - bans from 2 weeks (the lowest penalty may also be a mute) to a year (depending on the accumulation). \n2. Raids (and analogical acting alone) - bans for about a month or longer, if more dangerous. \n3. Inappropriate content - warns, mutes, bans for a week/two, unless accumulated - then gradually extended. \n4. Hacker vandalism and the most serious abuse of administrative powers - longer bans, even for many years.\n5. If someone is convicted by a final judgment for a crime against a fandom member, he may receive a mute or ban no longer that the punishment ordered by the court. \n6. The rest - warns, mutes, kicks, bans up to a month (unless accumulation, then gradually extended). \n7. In case of a gross or persistent violation of the server rules by an administration member, their temporary or permanent degradation is possible. \n8. Time spent voluntarily outside the server during the mute is treated as an alternative form of serving the punishment. \n9. There are no perm bans for accounts that are not bots or sock puppet accounts made by other users, except for the hardest crimes (vide point 5). This guarantee applies only to people who proved themselves with at least some form of positive contribution to the server. Accounts, whose only purpose is instigating arguments, insulting other users or trolling can be banned permanently. \n10. In exceptional cases, it is possible to be muted until further notice, if the user has been punished very often or very severely, and still causes problems by breaking the server rules. These mutes may be preceded by a temporary ban.\n11. First offenses punishable as mildly as possible.\n12. Frequent entering and exiting the server or changing the main account on the server too often (even despite the statutory notification of this intention to administration) may result in a warning, manual verification being postponed (only for recently created accounts) or, in extreme cases, a ban.",
+                "color": 5814783
+              }
+            ],
+            "attachments": []
+          },
+          "reference": [
+            "https://discord.com/channels/822931925618524240/1180897656663453840/1195396461249171526",
+            "https://discord.com/channels/822931925618524240/1330325042273456168/1330326172931723335"
+          ]
+        },
+        {
+          "data": {
+            "content": "# :flag_us: Netiquette",
+            "embeds": [
+              {
+                "description": "1. To deal with private problems, we use private chats or the channel <#909046538091778048> (only when the argument is in any way related to the topics discussed on the server). Moving quarrels from other parts of the internet here is not welcome. \n2. If you are offended by another user's activity, do not be provoked. You can report violation of the rules to the staff. \n3. It is not very kind to share messages received via private chats with other users without their consent, especially if doing so would ruin their privacy or reputation. The only exception are cases of scam and bullying, as these may potentially be harmful to more users, therefore should be immediately reported to the server administration, preferably via private message. Otherwise if there is someone on the server who sends you annoying messages in private, remember that you can always block them. \n4. The reason for the sanction does not have to be directly related to the rules if the user's behavior spoils the server atmosphere. \n5. Technical problems on the server can be reported to <#909039074059370527>. \n6. Do not bring up others' wrongdoings just for the sake of it. It's better to remain calm than persistently bring up old, closed and uncomfortable topics, problems and dramas. Prolonging arguments with no intention to end them leads to unnecessary quarrels that disturb the peace of other users, especially when you do it on general channels using vulgar language. Discussing such topics is only acceptable on ⁠⁠<#909046538091778048> on condition that you keep it civil. <:happy:909045208505794590>\n7. You can speak English anywhere on the server. But for longer conversations in English or other languages we recommend non-Polish channels: ⁠⁠⁠<#909041188810661898> and <#1173378559037943958>.",
+                "color": 5814783
+              }
+            ],
+            "attachments": []
+          },
+          "reference": [
+            "https://discord.com/channels/822931925618524240/1180897656663453840/1195396466164891690",
+            "https://discord.com/channels/822931925618524240/1330325042273456168/1330326174366302220"
+          ]
+        },
+        {
+          "data": {
+            "content": "## :flag_pl: Spis treści:\n- [Regulamin serwera Reksio Discord](<https://discord.com/channels/822931925618524240/1180897656663453840/1195396445394706492>),\n- [Taryfikator kar](<https://discord.com/channels/822931925618524240/1180897656663453840/1195396452428550184>),\n- [Netykieta](<https://discord.com/channels/822931925618524240/1180897656663453840/1195396453993025636>).\n## :flag_us: Table of contents:\n- [Reksio Discord rules](<https://discord.com/channels/822931925618524240/1180897656663453840/1195396455951765637>),\n- [Tariff of punishments](<https://discord.com/channels/822931925618524240/1180897656663453840/1195396461249171526>),\n- [Netiquette](<https://discord.com/channels/822931925618524240/1180897656663453840/1195396466164891690>).",
+            "embeds": null,
+            "attachments": []
+          },
+          "reference": [
+            "https://discord.com/channels/822931925618524240/1180897656663453840/1195396469453242428",
+            "https://discord.com/channels/822931925618524240/1330325042273456168/1330326175754752020"
+          ]
+        }
+      ],
+      "targets": [
+        {
+          "url": ""
+        }
+      ]
+    }
+  ]
+}
