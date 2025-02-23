@@ -1,0 +1,15 @@
+<#913174618997665882> - music bots commands.
+<#924724434697351238> - sharing photos, scans and descriptions of your AM games.
+<#1178965171587272724> - conversations about Aidem Media games aside from "The Adventures of Reksio" series.
+<#909056082897436732> - conversations about "The Witcher" game series. 
+<#945225687617388544> - musical works not related to Reksio (also, discussing music tastes).
+<#987630870045270016> - generating texts, images, etc. using artificial intelligence.
+<#940904445343060028> - memes connected with fandom and its members but not directly with the Adventures of Reksio series.
+<#924590672038723594> - posting copypastas or excerpts from Uncyclopedia.
+<#941708984421847040> - unfunny memes.
+<#909192094055292968> - posting selfies.
+<#909133916219252756> - conversations about imaginary relationships, or "ships".
+<#921110683653931069> - Japanese animation talks. Requires access to <#909046538091778048> (jajo śmierdzi).
+<#1094306163283206215> - conversations about paranormal, esoteric and magical phenomena, as well as pseudoscience, parascience and protoscience. Requires access to <#909046538091778048> (jajo śmierdzi).
+||<#1004866021108220005> - humor too gross for any other channel, but still within the rules. Requires access to <#909046538091778048> (jajo śmierdzi).||
+<#1233693523811893349> - posting and rating quotes in the form of dialogues and messages from other Reksio platforms/servers (the rules in <#1230099437423038535> apply).

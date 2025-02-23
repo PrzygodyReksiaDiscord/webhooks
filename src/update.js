@@ -3,74 +3,153 @@ import { readdir, readFile } from 'node:fs/promises';
 
 const DATA_DIR = './data';
 
-const files = await readdir(DATA_DIR);
-for (const file of files) {
-    if (!file.toLowerCase().endsWith('.json')) {
-        continue;
-    }
-    const fullPath = `${DATA_DIR}/${file}`;
-    console.log(`Processing file: ${fullPath}`);
-    const contents = await readFile(fullPath, { encoding: 'utf8' });
-    const parsedContents = JSON.parse(contents);
-    for (const target of parsedContents.targets) {
-        let url = target.url;
-        console.log(` Targeting URL: ${url}`);
-        if (url.startsWith('$')) {
-            const envValue = process.env[url.slice(1)];
+const CHANNEL_WEBHOOKS_FILENAME = 'targets.txt';
+
+const MESSAGE_REFERENCES_FILENAME = 'references.txt';
+const MESSAGE_BODY_FILENAME = 'content.md';
+const MESSAGE_EMBEDS_DIRNAME = 'embeds';
+const MESSAGE_ATTACHMENTS_DIRNAME = 'attachments';
+
+const EMBED_TITLE_FILENAME = 'title.txt';
+const EMBED_BODY_FILENAME = 'description.md';
+const EMBED_COLOR_FILENAME = 'color.txt';
+const EMBED_HYPERLINK_FILENAME = 'url.txt';
+const EMBED_THUMBNAIL_FILENAME = 'thumbnail.txt';
+
+const readTargetsFile = async (parentPath) => {
+    const contents = await readFile(`${parentPath}/${CHANNEL_WEBHOOKS_FILENAME}`, { encoding: 'utf8' });
+    return contents.split('\n').map(line => {
+        line = line.trim();
+        if (line.startsWith('$')) {
+            const envValue = process.env[line.slice(1)];
             if (!envValue) {
-                throw new Error(`Missing ENV: ${url}`);
+                throw new Error(`Missing ENV: ${line}`);
             }
-            url = envValue;
+            line = envValue;
         }
-        const [token, id, ] = url.split('/').slice().reverse();
-        const webhookClient = new WebhookClient({ id, token });
-        for (const { data, reference } of parsedContents.messages) {
-            const content = data.content ?? null;
-            let files = [];
-            if (data.attachments) {
-                for (const path of data.attachments) {
-                    files.push(await readFile(path));
-                }
-            }
-            let embeds = [];
-            if (data.embeds) {
-                for (const embed of data.embeds) {
-                    let builder = new EmbedBuilder()
-                        .setAuthor(embed.author ?? null)
-                        .setColor(embed.color ?? null)
-                        .setDescription(embed.description ?? null)
-                        .setFooter(embed.footer ?? null)
-                        .setImage(embed.image ?? null)
-                        .setTimestamp(embed.timestamp ?? null)
-                        .setTitle(embed.title ?? null)
-                        .setURL(embed.url ?? null);
-                    if (embed.thumbnail) {
-                        builder = builder.setThumbnail(embed.thumbnail.url ?? null);
-                    }
-                    embeds.push(builder);
-                }
-            }
-            const message = {
-                content,
-                embeds,
-                files,
-            };
-            let currentReference;
-            if (reference) {
-                if (typeof reference === 'string') {
-                    currentReference = reference;
-                } else {
-                    currentReference = reference[target.url];
-                }
-            }
-            if (currentReference) {
-                const messageId = currentReference.split('/').slice().reverse()[0];
-                await webhookClient.editMessage(messageId, message);
-                console.log(`  Message edited (ID: ${messageId})!`);
+        return line;
+    });
+};
+
+const readReferencesFile = async (parentPath) => {
+    const contents = await readFile(`${parentPath}/${MESSAGE_REFERENCES_FILENAME}`, { encoding: 'utf8' });
+    return contents.split('\n').map(line => line.trim().split('/').slice().reverse()[0]);
+};
+
+const readMessageBody = async (parentPath) => {
+    try {
+        return await readFile(`${parentPath}/${MESSAGE_BODY_FILENAME}`, { encoding: 'utf8' });
+    } catch {
+        return null;
+    }
+};
+
+const buildEmbed = async (parentPath) => {
+    let builder = new EmbedBuilder();
+    try {
+        const title = await readFile(`${parentPath}/${EMBED_TITLE_FILENAME}`, { encoding: 'utf8' });
+        builder.setTitle(title);
+    } catch {}
+    try {
+        const body = await readFile(`${parentPath}/${EMBED_BODY_FILENAME}`, { encoding: 'utf8' });
+        builder.setDescription(body);
+    } catch {}
+    try {
+        const color = await readFile(`${parentPath}/${EMBED_COLOR_FILENAME}`, { encoding: 'utf8' });
+        try {
+            builder.setColor(JSON.parse(color));
+        } catch {
+            const parsedColorNumber = parseInt(color);
+            if (!isNaN(parsedColorNumber)) {
+                builder.setColor(parsedColorNumber);
             } else {
-                const messageId = (await webhookClient.send(message)).id;
-                console.log(`  Message sent (ID: ${messageId})!`);
+                builder.setColor(color);
             }
+        }
+    } catch {}
+    try {
+        const hyperlink = await readFile(`${parentPath}/${EMBED_HYPERLINK_FILENAME}`, { encoding: 'utf8' });
+        builder.setURL(hyperlink);
+    } catch {}
+    try {
+        const thumbnail = await readFile(`${parentPath}/${EMBED_THUMBNAIL_FILENAME}`, { encoding: 'utf8' });
+        builder.setThumbnail(thumbnail);
+    } catch {}
+    return builder;
+};
+
+const readEmbeds = async (parentPath) => {
+    try {
+        const embedDirs = (await readdir(`${parentPath}/${MESSAGE_EMBEDS_DIRNAME}`, { withFileTypes: true }))
+            .filter(e => e.isDirectory())
+            .map(e => `${parentPath}/${MESSAGE_EMBEDS_DIRNAME}/${e.name}`);
+        embedDirs.sort();
+        return await Promise.all(embedDirs.map(dir => buildEmbed(dir)));
+    } catch {
+        return null;
+    }
+};
+
+const readAttachments = async (parentPath) => {
+    try {
+        const attachmentPaths = (await readdir(`${parentPath}/${MESSAGE_ATTACHMENTS_DIRNAME}`, { withFileTypes: true }))
+            .filter(e => e.isFile())
+            .map(e => `${parentPath}/${MESSAGE_ATTACHMENTS_DIRNAME}/${e.name}`);
+        attachmentPaths.sort();
+        return await Promise.all(attachmentPaths.map(path => readFile(path)));
+    } catch {
+        return null;
+    }
+};
+
+const buildMessage = async (parentPath) => {
+    const content = await readMessageBody(parentPath);
+    const embeds = await readEmbeds(parentPath);
+    const files = await readAttachments(parentPath);
+    return {
+        content,
+        embeds,
+        files
+    };
+};
+
+const channelDirs = (await readdir(DATA_DIR, { withFileTypes: true }))
+    .filter(e => e.isDirectory())
+    .map(e => `${DATA_DIR}/${e.name}`);
+for (const channelDir of channelDirs) {
+    const targets = await readTargetsFile(channelDir);
+    const webhookClients = targets.map(target => {
+        const [token, id, ] = target.split('/').slice().reverse();
+        const client = new WebhookClient({ id, token });
+        return client;
+    });
+    const messageDirs = (await readdir(channelDir, { withFileTypes: true }))
+        .filter(e => e.isDirectory())
+        .map(e => `${channelDir}/${e.name}`);
+    messageDirs.sort();
+    for (const messageDir of messageDirs) {
+        const message = await buildMessage(messageDir);
+        const editedMessageIds = await readReferencesFile(messageDir);
+        const unusedClients = new Set(webhookClients);
+        for (const messageId of editedMessageIds) {
+            for (const client of unusedClients) {
+                let couldRead = true;
+                try {
+                    await client.fetchMessage(messageId);
+                } catch (err) {
+                    couldRead = false;
+                }
+                if (!couldRead) {
+                    continue;
+                }
+                unusedClients.delete(client);
+                await client.editMessage(messageId, message);
+                console.log(`  [${client.id}] Message edited (ID: ${messageId}): ${messageDir}`);
+            }
+        }
+        for (const client of unusedClients) {
+            const messageId = (await client.send(message)).id;
+            console.log(`  [${client.id}] Message sent (ID: ${messageId}): ${messageDir}`)
         }
     }
 }
