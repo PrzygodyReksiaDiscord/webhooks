@@ -10,11 +10,13 @@ const MESSAGE_BODY_FILENAME = 'content.md';
 const MESSAGE_EMBEDS_DIRNAME = 'embeds';
 const MESSAGE_ATTACHMENTS_DIRNAME = 'attachments';
 
-const EMBED_TITLE_FILENAME = 'title.txt';
+const EMBED_TITLE_FILENAME = 'title.md';
 const EMBED_BODY_FILENAME = 'description.md';
 const EMBED_COLOR_FILENAME = 'color.txt';
 const EMBED_HYPERLINK_FILENAME = 'url.txt';
 const EMBED_THUMBNAIL_FILENAME = 'thumbnail.txt';
+
+const ensureNotEmpty = (str) => (str.trim().length > 0) ? str : '** **';
 
 const readTargetsFile = async (parentPath) => {
     const contents = await readFile(`${parentPath}/${CHANNEL_WEBHOOKS_FILENAME}`, { encoding: 'utf8' });
@@ -32,13 +34,18 @@ const readTargetsFile = async (parentPath) => {
 };
 
 const readReferencesFile = async (parentPath) => {
-    const contents = await readFile(`${parentPath}/${MESSAGE_REFERENCES_FILENAME}`, { encoding: 'utf8' });
-    return contents.split('\n').map(line => line.trim().split('/').slice().reverse()[0]);
+    try {
+        const contents = await readFile(`${parentPath}/${MESSAGE_REFERENCES_FILENAME}`, { encoding: 'utf8' });
+        return contents.split('\n').map(line => line.trim().split('/').slice().reverse()[0]);
+    } catch {
+        return [];
+    }
 };
 
 const readMessageBody = async (parentPath) => {
     try {
-        return await readFile(`${parentPath}/${MESSAGE_BODY_FILENAME}`, { encoding: 'utf8' });
+        const contents = await readFile(`${parentPath}/${MESSAGE_BODY_FILENAME}`, { encoding: 'utf8' });
+        return ensureNotEmpty(contents);
     } catch {
         return null;
     }
@@ -48,11 +55,11 @@ const buildEmbed = async (parentPath) => {
     let builder = new EmbedBuilder();
     try {
         const title = await readFile(`${parentPath}/${EMBED_TITLE_FILENAME}`, { encoding: 'utf8' });
-        builder.setTitle(title);
+        builder.setTitle(ensureNotEmpty(title));
     } catch {}
     try {
         const body = await readFile(`${parentPath}/${EMBED_BODY_FILENAME}`, { encoding: 'utf8' });
-        builder.setDescription(body);
+        builder.setDescription(ensureNotEmpty(body));
     } catch {}
     try {
         const color = await readFile(`${parentPath}/${EMBED_COLOR_FILENAME}`, { encoding: 'utf8' });
