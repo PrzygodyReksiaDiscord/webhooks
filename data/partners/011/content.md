@@ -1,0 +1,2 @@
+:flag_pl: Kolejną fanowską produkcją jest platformówka 3D autorstwa <@428544684076433409>. Z końcem roku 2024 upublicznione zostało pierwsze demo (do pobrania oczywiście na załączonej stronie). Projekt prowadzony jest na <#1219407024115290286>.
+:flag_us: There is also a 3D platformer-type fan game created by <@428544684076433409>. Its first demo has been published at the end of 2024 - you can download it from the page linked below. The project is discussed on <#1219407024115290286>.

@@ -1,0 +1,3 @@
+:flag_pl: Ben 10 FANDOM to serwer dla polskich fanów kreskówki Ben 10 i wszystkiego co z nią powiązane. Jest on połączony z wiki "Ben 10: Alternatywne Historie", która jest zbiorem fikcyjnych tworów związanych z tą kreskówką. Co miesiąc organizowane są eventy, a co tydzień organizujemy walki powiązane z uniwersum Ben 10. Zapraszamy!
+:flag_us: Ben 10 FANDOM is a server for Polish fans of the Ben 10 cartoon and everything related to it. It is linked to the "Ben 10: Alternatywne Historie" wiki, which is a collection of fictional creations related to the cartoon. Monthly events are organized, and every week we organize fights related to the Ben 10 universe. Welcome!
+https://discord.gg/zMvh7uQ
