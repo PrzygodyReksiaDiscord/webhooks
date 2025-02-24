@@ -2,7 +2,7 @@
 
 :warning: **UWAGA!** Nie wolno umieszczać skopiowanych z Discorda webhooków bezpośrednio w żadnym pliku. Są to prywatne linki i należy przechowywać je w bezpieczny sposób. Takim sposobem jest wklejenie ich na listę ["Secrets"](https://github.com/Dove6/przygody-reksia-discord-webhooks/settings/secrets/actions) tego repozytorium. Można się do nich potem odwołać w plikach `targets.txt` po krótszej nazwie, np. `$RULES_WEBHOOK_URL` (uwaga na symbol dolara na początku).
 
-## Jak edytować wiadomości?
+## W jaki sposób są tu zapisane wiadomości?
 
 Dane wiadomości przechowywane są w folderze [`data`](./data/). Każdy jego podfolder (np. [`info`](./data/info/)) przechowuje powiązany tematycznie zestaw wiadomości. Przyjmijmy, że są to foldery odpowiadające kanałom[^1].
 
@@ -34,6 +34,32 @@ Przykłady:
 `\@Pani Administrator` -> `<@&1224305247695147079>`  
 `\#testy-i-weryfikacje` -> `<#909039526599622696>`  
 `\:szloch:` -> `<:szloch:909063765520171109>`
+
+## No dobra, ale jak w ogóle edytować wiadomości?
+
+Najprościej bezpośrednio przez GitHuba. W szczególności dla drobnych zmian. Powiedzmy na przykład, że chcemy usunąć jeden z aktywnych wątków.
+
+1. Nawigujemy do odpowiedniego pliku. Tutaj: [`data/info/003/embeds/01/description.md`](./data/info/003/embeds/01/description.md)
+2. Klikamy przycisk z ołówkiem ("Edit this file").
+3. Modyfikujemy plik. Tutaj: usuwamy wybraną linię.
+4. Zatwierdzamy, klikając zielony przycisk "Commit changes..." w prawym górnym rogu edytora.
+5. W pole "Commit message" wpisujemy krótkie podsumowanie czytelne dla człowieka.
+6. Zaznaczamy niżej "Create a new branch for this commit and start a pull request", a w pole tekstowe wpisujemy nazwę gałęzi. Krótką, unikalną i-najlepiej-bez-spacji-czy-polskich-znakow.
+7. Kliamy zielony przycisk "Propose changes".
+8. Na nowej stronie klikamy jeszcze zielony przycisk "Create pull request".
+
+Jak się już stworzy pull request, to w zakładce "Files changed" można sobie podejrzeć zmiany w plikach, a zielonym przyciskiem "Merge pull request" się zatwierdza całość (to najlepiej niech zrobi inna osoba sprawdzająca).
+
+Jeśli zmiana jest bardziej zaawansowana, to można sobie otworzyć edytor online:
+
+1. Zamiast ikony ołówka klikamy ikonę strzałki w dół tuż przy niej. Wybieramy z listy "Open with..." pozycję "github.dev". Otwiera się edytor Visual Studio Code w wersji online. Po lewej jest eksplorator pliku, można dowolnie sobie nawigować, jak i dodawać/usuwać pliki/fodlery.
+2. Po wykonanych edycjach wybieramy z lewej strony ikona gałęzi ("Kontrola źródła"). Trzeci pozycja, tuż pod lupą.
+3. Nad polem "Komunikat" z prawej strony klikamy trzy kropki. Wybieramy "Gałąź" -> "Utwórz gałąź...".
+4. Wpisujemy krotka-unikalna-nazwa-bez-polskich-znakow-i-spacji, po czym dajemy Enter.
+5. Klikamy niebieski przycisk "Przełącz do gałęzi".
+6. Teraz znowy wchodzimy w ikonę gałęzi, wpisujemy wiadomość podsumowującą zmiany w pole "Komunikat" i zatwierdzamy przez Ctrl-Enter.
+
+No i można już zamknąć edytor. A pull request stworzyć ręcznie z poziomu GitHuba. Albo ewentualnie można nie zamykać edytora, tylko pull request stworzyć przez ikonę gałęzi. Nad komunikatem należy kliknąć w symbol gałęzi z plusem ("Utwórz żądanie ściągnięcia"). No i tam sie wypełnia jakiś opis, a potem klika niebieski przycisk "Create".
 
 [^1]: Co nie jest do końca prawdą. Regulamin na przykład jest wrzucany równolegle na dwa kanały (jeden oryginalny i jedna kopia dla niezweryfikowanych).
 [^2]: Nie ma znaczenia tak naprawdę, czy wszystkie numerki są zajęte i następują bezpośrednio po sobie. Wszystkie nazwy folderów są zbierane i sortowane alfabetycznie, więc to jest tylko takie uproszczenie dla edytującego.

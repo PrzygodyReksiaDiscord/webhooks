@@ -19,3 +19,7 @@ jobs:
       with:
         secrets: ${{ toJSON(secrets) }}
     - run: node src/update.js
+
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: true
