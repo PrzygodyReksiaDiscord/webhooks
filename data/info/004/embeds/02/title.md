@@ -1,1 +1,1 @@
-Rangi za poziom (MEE6)
+Rangi za poziom
