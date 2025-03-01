@@ -1,6 +1,6 @@
 # Webhooki Przygody Reksia Discord
 
-:warning: **UWAGA!** Nie wolno umieszczać skopiowanych z Discorda webhooków bezpośrednio w żadnym pliku. Są to prywatne linki i należy przechowywać je w bezpieczny sposób. Takim sposobem jest wklejenie ich na listę ["Secrets"](https://github.com/Dove6/przygody-reksia-discord-webhooks/settings/secrets/actions) tego repozytorium. Można się do nich potem odwołać w plikach `targets.txt` po krótszej nazwie, np. `$RULES_WEBHOOK_URL` (uwaga na symbol dolara na początku).
+:warning: **UWAGA!** Nie wolno umieszczać skopiowanych z Discorda webhooków bezpośrednio w żadnym pliku. Są to prywatne linki i należy przechowywać je w bezpieczny sposób. Takim sposobem jest wklejenie ich na listę ["Secrets"](https://github.com/PrzygodyReksiaDiscord/webhooks/settings/secrets/actions) tego repozytorium. Można się do nich potem odwołać w plikach `targets.txt` po krótszej nazwie, np. `$RULES_WEBHOOK_URL` (uwaga na symbol dolara na początku).
 
 ## 1. W jaki sposób są tu zapisane wiadomości?
 
@@ -112,7 +112,7 @@ Musimy najpierw znaleźć dany plik. Jak już będziemy mieć widok na jego tre�
 
 ### 3.3. Otwieranie dyskusji nad zmianami
 
-Przechodzimy do strony z listą gałęzi: https://github.com/Dove6/przygody-reksia-discord-webhooks/branches
+Przechodzimy do strony z listą gałęzi: https://github.com/PrzygodyReksiaDiscord/webhooks/branches
 
 (Można na nią trafić, klikając na stronie głównej przycisk "Branches":
 
