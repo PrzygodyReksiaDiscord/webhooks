@@ -6,4 +6,4 @@
 
 18. Propozycje zmian na serwerze proszę kierować na <#909039074059370527> lub na PW do przedstawicieli administracji lub <@&940690420327923743>. Jeśli chcesz zaangażować się bardziej w budowę serwera, możesz wystartować w wyborach do wspomnianej rady. Działa ona na specjalnych kanałach, do których dostęp, oprócz członków rady, mają również osoby boostujące serwer.
 
-19. Niektóre kanały posiadają (w przypiętych wiadomościach) dodatkowy regulamin, do którego również należy się stosować. Kanały te są wymienione na <#1180897754327826503>. Regulamin z <#909046594421293076> obejmuje również kanały głosowe.
+19. Niektóre kanały posiadają (w przypiętych wiadomościach) dodatkowy regulamin, do którego również należy się stosować. Kanały te są wymienione na <#1180897754327826503>.
