@@ -12,7 +12,7 @@ Każdy podfolder folderu [`data`](./data/) (np. [`info`](./data/info/)) przechow
 
 ### 1.2. Poszczególne wiadomości
 
-W każdym folderze kanału poszczególne wiadomości zawarte są wewnątrz folderów ponumerowanych po kolei. Dla [`info`](./data/info/) np. [`001`](./data/info/001/), [`002`](./data/info/002/), [`003`](./data/info/003/) itd.[^2] Folder kanału zawiera też plik `targets.txt`, gdzie w kolejnych liniach wypisane są nazwy webhooków powiązanych z tym kanałem.
+W każdym folderze kanału poszczególne wiadomości zawarte są wewnątrz folderów ponumerowanych po kolei. Dla [`info`](./data/info/) np. [`001_spis-tresci`](./data/info/001_spis-tresci/), [`002_kanaly`](./data/info/002_kanaly/), [`003_watki`](./data/info/003_watki/) itd.[^2] Folder kanału zawiera też plik `targets.txt`, gdzie w kolejnych liniach wypisane są nazwy webhooków powiązanych z tym kanałem.
 
 ### 1.3. Struktura pojedynczej wiadomości
 
@@ -21,7 +21,7 @@ W folderze powiązanym z konkretną wiadomością można znaleźć[^4] następuj
 - `content.md` - zawartość wiadomości; jest w formacie Markdown[^3]
 - `references.txt` - linki do powiązanych wiadomości na Discordzie, na których ma być wykonana edycja; jeśli chcemy stworzyć nową wiadomość, to ten plik pomijamy (tylko :warning: **UWAGA**, bo trzeba pamiętać, żeby go stworzyć przy następnej okazji)
 - `embeds` - podfolder opisujący kolejne embedy (struktura opisana niżej); znowu numerowane: `01`, `02`, `03` itd.[^2]
-- `attachments` - podfolder na załączniki; tutaj po prostu wrzucamy pliki i numerki umieszczamy na początku ich nazwy, np. [`01_DoubleCounter_verify.png`](./data/verification/003/attachments/01_DoubleCounter_verify.png)
+- `attachments` - podfolder na załączniki; tutaj po prostu wrzucamy pliki i numerki umieszczamy na początku ich nazwy, np. [`01_DoubleCounter_verify.png`](./data/verification/003_instrukcja/attachments/01_DoubleCounter_verify.png)
 
 ### 1.4. Struktura embeda
 
@@ -69,7 +69,7 @@ Należy zwracać uwagę na to, żeby pracować na konkretnej gałęzi, a nie na 
 
 #### 3.2.1. Modyfikacja plików
 
-Przyjmijmy, że chcemy zmienić kolor pierwszego embeda w drugiej wiadomości w FAQ. Szukamy odpowiedniego pliku ([data/faq/002/embeds/01/color.txt](./data/faq/002/embeds/01/color.txt)).  
+Przyjmijmy, że chcemy zmienić kolor pierwszego embeda w drugiej wiadomości w FAQ. Szukamy odpowiedniego pliku ([data/faq/002_sekcja-wstepna/embeds/01/color.txt](./data/faq/002_sekcja-wstepna/embeds/01/color.txt)).  
 :warning: **UWAGA!** Warto się upewnić, że jesteśmy na odpowiedniej gałęzi - widać to po lewej stronie:
 
 ![obraz](https://github.com/user-attachments/assets/fd17e2a4-5d19-4648-9d4b-e71cc8fa94dd)
