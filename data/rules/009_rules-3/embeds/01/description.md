@@ -6,4 +6,4 @@
 
 18. Suggestions for changes on the server should be sent on <#909039074059370527> or on priv to the members of administration or <@&940690420327923743> (Server Council). If you intend to engage further in creating the server, you can participate in the election for the Council. It operates on dedicated channels, which - apart from the Council members - may be seen by server boosters.
 
-19. Some channels have additional rules (in pinned messages) which ought to be respected too. Those channels are listed on <#1180897754327826503>. Rules from <#909046594421293076> apply to voice channels as well.
+19. Some channels have additional rules (in pinned messages) which ought to be respected too. Those channels are listed on <#1180897754327826503>.
