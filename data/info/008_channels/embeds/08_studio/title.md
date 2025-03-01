@@ -1,1 +1,1 @@
-🎨 Pracownia Leonarda da Vinci 🖌
+🎨 Pracownia Leonarda da Vinci 🖌 (Studio of Leonardo da Vinci)

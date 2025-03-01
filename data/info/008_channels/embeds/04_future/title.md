@@ -1,1 +1,1 @@
-🌟 Świetlana Przyszłość 🚀 (Red Mill)
+🌟 Świetlana Przyszłość 🚀 (Bright Future)

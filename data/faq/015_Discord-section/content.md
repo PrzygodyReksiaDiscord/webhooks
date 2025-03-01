@@ -1,1 +1,1 @@
-# :flag_us: Adventures of Reksio section
+# :flag_us: General Discord section

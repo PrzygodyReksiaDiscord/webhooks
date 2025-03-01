@@ -1,1 +1,1 @@
-📝 Okienko nr 4 📝 (Yard)
+📝 Okienko nr 4 📝 (Window no. 4)

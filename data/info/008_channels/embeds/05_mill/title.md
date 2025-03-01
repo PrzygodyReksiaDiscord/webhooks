@@ -1,1 +1,1 @@
-🍷 Czerwony Młynek 💃 (Continental calls)
+🍷 Czerwony Młynek 💃 (Red Mill)

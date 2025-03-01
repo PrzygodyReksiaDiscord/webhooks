@@ -1,1 +1,1 @@
-🎤 Rozmowy kontynentalne 🌎 (Inn Under the Rose)
+🎤 Rozmowy kontynentalne 🌎 (Continental calls)

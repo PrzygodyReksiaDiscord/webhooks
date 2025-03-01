@@ -1,1 +1,1 @@
-🐗 Karczma Pod Różą 🌹 (Studio of Leonardo da Vinci)
+🐗 Karczma Pod Różą 🌹 (Inn Under the Rose)

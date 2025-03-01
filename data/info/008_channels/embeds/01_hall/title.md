@@ -1,1 +1,1 @@
-🏛 Ratusz 🏛 (Window no. 4)
+🏛 Ratusz 🏛 (Town Hall)

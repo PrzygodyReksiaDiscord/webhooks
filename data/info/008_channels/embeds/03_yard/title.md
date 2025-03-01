@@ -1,1 +1,1 @@
-🏡 Podwórko 🐶 (Bright future)
+🏡 Podwórko 🐶 (Yard)
