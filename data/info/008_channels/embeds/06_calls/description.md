@@ -1,6 +1,5 @@
-Voice channels, text channels for conversations with the users of the voice channels and announcements from video content creators.
-- Commenting on streams, playing music and conversations on voice chats: <#909046594421293076>
+Voice channels, arranging voice activities/ gaming sessions and announcements from video content creators.
+- Arranging voice activities and gaming sessions, commenting on conversations on voice chats: <#909046594421293076>
 - Announcements regarding Reksio-related streams and video premieres: ⁠<#1267124282656428173>
-- Smaller talks: <#909046821668675625>
-- Bigger talks: <#909046844053671966>
+- Voice activities: <#909046821668675625>, <#909046844053671966>
 - Organized speeches: <#1165597991168655421>
