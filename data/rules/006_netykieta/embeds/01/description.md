@@ -5,4 +5,4 @@
 5. Problemy techniczne występujące na serwerze można zgłaszać na <#909039074059370527>.
 6. Nie wypominamy sobie błędów dla samego ich wypominania. Lepiej zachować spokój niż uporczywie rozgrzebywać stare i zamknięte niekomfortowe sprawy, problemy, dramy. Ciągnięcie polemiki w nieskończoność prowadzi do ostrych, zbędnych kłótni przeszkadzających innym użytkownikom - zwłaszcza, gdy robi się to na kanałach ogólnych z użyciem rynsztokowego słownictwa. Dopuszcza się poruszanie takich kwestii na <#909046538091778048> przy zachowaniu odpowiedniego poziomu kultury osobistej. <:happy:909045208505794590>
 7. Po angielsku można pisać na wszystkich kanałach. Na dłuższe rozmowy w językach innych niż polski zapraszamy na ⁠<#909041188810661898> i <#1173378559037943958>.
-8. Podczas rozmów głosowych należy wyciszyć dźwięki tła, jeśli to możliwe. Należy też unikać zbyt głośnych dźwięków ogółem.
+8. Podczas rozmów głosowych należy wyciszyć dźwięki tła, jeśli to możliwe. Należy też unikać zbyt głośnych dźwięków ogółem. Nieuprzejme jest również wzajemne przekrzykiwanie się czy narzucanie pozostałym rozmówcom tematu, którym nie są zainteresowani.
