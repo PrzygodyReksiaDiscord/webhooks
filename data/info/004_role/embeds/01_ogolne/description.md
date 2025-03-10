@@ -10,7 +10,7 @@
 <@&909049889055445002> - zarządca <#909046389227536426>. Rola jest wyróżnieniem dla najaktywniejszych użytkowników tego kanału. Pozwala również na zarządzanie <#1267124105308536862>
 <@&909049864208392192> - zarządca <#909046426535862282>. Rola jest wyróżnieniem dla najaktywniejszych użytkowników tego kanału
 <@&1274834829606649896> - zarządca <#909046481795825685>. Rola jest wyróżnieniem dla najaktywniejszych użytkowników tego kanału
-<@&909077054459346945> - zarządca <#909046594421293076>. Rola jest wyróżnieniem dla najaktywniejszych użytkowników tego kanału. Pozwala również na zarządzanie kanałami głosowymi oraz botami muzycznymi
+<@&909077054459346945> - zarządca <#909046594421293076>. Rola jest wyróżnieniem dla najaktywniejszych użytkowników tego kanału. Pozwala również na zarządzanie kanałami głosowymi
 <@&977599336957489172> - zarządca wydarzeń, może pisać na <#1267124282656428173>
 <@&909039818728673360> - użytkownik pozbawiony możliwości zamieszczania wiadomości poza wyznaczonym dla niego kanałem ⁠<#914203503218548757> (lochy)
 <@&914203758072852501> - użytkownik pozbawiony możliwości zamieszczania wiadomości również na kanale ⁠lochy [Rola dla wybitnych]

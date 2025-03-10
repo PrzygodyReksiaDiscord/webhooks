@@ -10,3 +10,4 @@
 10. In exceptional cases, it is possible to be muted until further notice, if the user has been punished very often or very severely, and still causes problems by breaking the server rules. These mutes may be preceded by a temporary ban.
 11. First offenses punishable as mildly as possible.
 12. Frequent entering and exiting the server or changing the main account on the server too often (even despite the statutory notification of this intention to administration) may result in a warning, manual verification being postponed (only for recently created accounts) or, in extreme cases, a ban.
+13. If there is no other evidence of harmful voice channel activity, the case is examined based upon the testimony of an administration member or at least 2 users.

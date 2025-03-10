@@ -10,7 +10,7 @@
 <@&909049889055445002> - manages <#909046389227536426>. The role is an award for the most active users of this channel. Also, manages <#1267124105308536862>
 <@&909049864208392192> - manages <#909046426535862282>. This role is an award for the most active users of this channel
 <@&1274834829606649896> - manages <#909046481795825685>. The role is an award for the most active users of this channel
-<@&909077054459346945> - manages <#909046594421293076>. This role is an award for the most active users of this channel. Also, manages voice channels and music bots
+<@&909077054459346945> - manages <#909046594421293076>. This role is an award for the most active users of this channel. Also, manages voice channels
 <@&977599336957489172> - manages events and can write on <#1267124282656428173>
 <@&909039818728673360> - user who lost access to writing outside of <#914203503218548757>
 <@&914203758072852501> - user who lost access to writing in <#914203503218548757> (lochy) as well

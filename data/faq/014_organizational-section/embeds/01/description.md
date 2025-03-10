@@ -6,7 +6,6 @@ If you want to discuss a longer topic (so that it is not a one-off conversation)
 - Double Counter - account verification
 - Carl-bot - reaction roles on <#909039228904689675> and in some server games, logging
 - MEE6 - welcome messages
-- aiode - playing music on voice channels
 - YAGPDB.xyz - leveling system, custom command (which can be listed by texting !cc on <#909046513085321237>)
 - DISBOARD - keeping an invite to this server on the disboard.org list
 - Tatsu - fun, economy

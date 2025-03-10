@@ -6,7 +6,6 @@ Jeśli chcesz pociągnąć jakiś temat dłużej (tak, by nie był jednorazową 
 - Double Counter - weryfikacja użytkowników
 - Carl-bot - nadawanie ról zgodnie z reakcjami na <#909039228904689675> oraz w zabawach, dziennik zdarzeń
 - MEE6 - wiadomości powitalne
-- aiode - odtwarzanie muzyki na kanałach głosowych
 - YAGPDB.xyz - śledzenie poziomu doświadczenia użytkowników, własne komendy serwerowe (listę komend można poznać, wpisując !cc na kanale <#909046513085321237>)
 - DISBOARD - wyświetlanie zaproszenia na serwer na publicznej liście disboard.org
 - Tatsu - zabawy, ekonomia
