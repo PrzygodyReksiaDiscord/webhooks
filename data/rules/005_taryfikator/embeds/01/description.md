@@ -10,3 +10,4 @@
 10. W wyjątkowych przypadkach możliwe jest przyznanie wyciszenia do odwołania, jeśli użytkownik był karany bardzo często lub bardzo surowo, a mimo to nadal sprawia problemy, łamiąc regulamin. Muty te mogą być poprzedzone czasowym banem.
 11. Pierwsze przewinienia karane możliwie łagodnie.
 12. Częste wchodzenie i wychodzenie z serwera lub zbyt częste zmienianie głównego konta na serwerze (nawet mimo regulaminowego zgłoszenia tego zamiaru administracji) skutkować może ostrzeżeniem, odroczeniem ręcznej weryfikacji (tylko dla nowych kont), a w skrajnych przypadkach - banem.
+13. Jeśli brak innych dowodów na szkodliwą działalność użytkownika na kanale głosowym, kadra rozpatruje sprawę na podstawie zeznań członka kadry lub co najmniej 2 użytkowników.
