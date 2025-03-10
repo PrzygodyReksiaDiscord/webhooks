@@ -6,7 +6,7 @@
 
 4. Obowiązuje zakaz treści NSFW i obraźliwych. Obejmuje to nagość, seks, dotkliwą przemoc i inne poważnie niepokojące treści. Nie akceptujemy również oszustw, wyłudzania danych i celowego wprowadzania w błąd innych użytkowników.
 
-5. Dyskutowanie kontrowersyjnych tematów, zwłaszcza politycznych, a także wstawianie treści powiązanych z nimi jest dozwolone wyłącznie na kanale ⁠⁠<#909046538091778048>. Dostęp do niego uzyskuje się, wybierając odpowiednią rolę w <#909039228904689675>.
+5. Dyskutowanie kontrowersyjnych tematów, zwłaszcza politycznych, a także wstawianie treści powiązanych z nimi jest dozwolone wyłącznie na kanale ⁠⁠<#909046538091778048>. Dostęp do niego uzyskuje się, wybierając odpowiednią rolę w <#909039228904689675>. Dyskusje na kanałach głosowych mogą dotyczyć kontrowersji, o ile odpowiada to wszystkim rozmówcom.
 
 6. Spamowanie wiadomościami jest dozwolone wyłącznie na kanale <#909046498166186036> (jednak z poszanowaniem przypiętych tam zasad), zaś komendami do obsługi botów na <#909046513085321237>.
 

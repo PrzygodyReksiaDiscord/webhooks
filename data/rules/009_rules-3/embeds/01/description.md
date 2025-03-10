@@ -2,7 +2,7 @@
 
 16. This server is supposed to coexist peacefully and cooperate with other servers and services on the subject of Rex. All fans of the Brave Dog and Moles the Mole are welcome here regardless of their socio-political views. For this reason, the server maintains worldview neutrality so that users can share their opinions without any obstacles.
 
-17. If you see anything that is against the rules or makes you feel unsafe (excluding discussions on controversial topics on <#909046538091778048>), let the administration know. We want this server to be a friendly place!
+17. If you see anything that is against the rules or makes you feel unsafe, let the administration know. We want this server to be a friendly place! Don't forget discussions on controversial topics on voice channels (if agreed upon by all disputants) and on <#909046538091778048> are exceptions from this rule.
 
 18. Suggestions for changes on the server should be sent on <#909039074059370527> or on priv to the members of administration or <@&940690420327923743> (Server Council). If you intend to engage further in creating the server, you can participate in the election for the Council. It operates on dedicated channels, which - apart from the Council members - may be seen by server boosters.
 
