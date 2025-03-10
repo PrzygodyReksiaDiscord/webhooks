@@ -1,4 +1,4 @@
-<#924724434697351238> - dzielenie się zdjęciami, skanami i opisami posiadanych gier AM.
+<#924724434697351238> - dzielenie się zdjęciami, skanami i opisami posiadanych gier AM. 
 <#1178965171587272724> - rozmowy o grach Aidem Media spoza serii "Przygody Reksia".
 <#909056082897436732> - rozmowy o serii gier "Wiedźmin". 
 <#945225687617388544> - twórczość muzyczna (plus polecajki).
