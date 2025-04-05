@@ -1,6 +1,10 @@
 # Webhooki Przygody Reksia Discord
 
-:warning: **UWAGA!** Nie wolno umieszczać skopiowanych z Discorda webhooków bezpośrednio w żadnym pliku. Są to prywatne linki i należy przechowywać je w bezpieczny sposób. Takim sposobem jest wklejenie ich na listę ["Secrets"](https://github.com/PrzygodyReksiaDiscord/webhooks/settings/secrets/actions) tego repozytorium. Można się do nich potem odwołać w plikach `targets.txt` po krótszej nazwie, np. `$RULES_WEBHOOK_URL` (uwaga na symbol dolara na początku).
+Niniejsze repozytorium służy do zarządzania treścią wiadomości z tzw. webhooków na serwerze Discord [Przygody Reksia](https://discord.gg/sc5psH2cvR) (kanały takie jak #regulamin, #info, #faq itd.). Służy również jako zapis historii zmian.
+
+Zawartość wiadomości z repozytorium jest automatycznie wgrywana na serwer, ale w ściśle określonym momencie, o którym będzie napisane później. Na razie zostawiam Cię z wiedzą, że podążając kolejnymi krokami przewodnika nie musisz się obawiać, że coś przypadkiem zepsujesz albo przedwcześnie opublikujesz.
+
+Przypisy zawierają mało istotne informacje z punktu widzenia edytora. Polecam przeczytać je na sam koniec, żeby się nie rozpraszać.
 
 ## 1. W jaki sposób są tu zapisane wiadomości?
 
@@ -12,26 +16,26 @@ Każdy podfolder folderu [`data`](./data/) (np. [`info`](./data/info/)) przechow
 
 ### 1.2. Poszczególne wiadomości
 
-W każdym folderze kanału poszczególne wiadomości zawarte są wewnątrz folderów ponumerowanych po kolei. Dla [`info`](./data/info/) np. [`001_spis-tresci`](./data/info/001_spis-tresci/), [`002_kanaly`](./data/info/002_kanaly/), [`003_watki`](./data/info/003_watki/) itd.[^2] Folder kanału zawiera też plik `targets.txt`, gdzie w kolejnych liniach wypisane są nazwy webhooków powiązanych z tym kanałem.
+W każdym folderze kanału poszczególne wiadomości zawarte są wewnątrz folderów ponumerowanych po kolei. Dla [`info`](./data/info/) np. [`001_spis-tresci`](./data/info/001_spis-tresci/), [`002_kanaly`](./data/info/002_kanaly/), [`003_watki`](./data/info/003_watki/) itd.[^2] [^6]
 
 ### 1.3. Struktura pojedynczej wiadomości
 
 W folderze powiązanym z konkretną wiadomością można znaleźć[^4] następujące pliki i podfoldery:
 
-- `content.md` - zawartość wiadomości; jest w formacie Markdown[^3]
-- `references.txt` - linki do powiązanych wiadomości na Discordzie, na których ma być wykonana edycja; jeśli chcemy stworzyć nową wiadomość, to ten plik pomijamy (tylko :warning: **UWAGA**, bo trzeba pamiętać, żeby go stworzyć przy następnej okazji)
-- `embeds` - podfolder opisujący kolejne embedy (struktura opisana niżej); znowu numerowane: `01`, `02`, `03` itd.[^2]
-- `attachments` - podfolder na załączniki; tutaj po prostu wrzucamy pliki i numerki umieszczamy na początku ich nazwy, np. [`01_DoubleCounter_verify.png`](./data/verification/003_instrukcja/attachments/01_DoubleCounter_verify.png)
+- plik `content.md` - zawartość wiadomości; jest w formacie Markdown[^3]
+- plik `references.txt` - linki do powiązanych wiadomości na Discordzie, na których ma być wykonana edycja; jeśli chcemy stworzyć nową wiadomość, to ten plik pomijamy (tylko :warning: **UWAGA**, bo trzeba pamiętać, żeby go stworzyć przy następnej okazji)
+- folder `embeds` - podfolder opisujący kolejne embedy (struktura opisana niżej); znowu numerowane: `01`, `02`, `03` itd.[^2]
+- folder `attachments` - podfolder na załączniki; tutaj po prostu wrzucamy pliki i numerki umieszczamy na początku ich nazwy, np. [`01_DoubleCounter_verify.png`](./data/verification/003_instrukcja/attachments/01_DoubleCounter_verify.png)
 
 ### 1.4. Struktura embeda
 
-W folderze powiązanym z pojedynczym embedem można znaleźć[^4] następujące pliki:
+W folderze powiązanym z pojedynczym embedem (tj. w numerowanym podfolderze wewnątrz folderu `embeds`) można znaleźć[^4] następujące pliki:
 
-- `title.txt` - tytuł; jest w formacie Markdown[^3]
-- `description.md` - treść embeda; jest w formacie Markdown[^3]
-- `color.txt` - kolor ramki embeda; wartość w formacie hex, czyli np. `#FF0000` to czerwony - można sobie podejrzeć np. na [tej stronie](https://htmlcolorcodes.com/color-picker/)
-- `url.txt` - link skojarzony z embedem
-- `thumbnail.txt` - link do obrazka wyświetlanego z boku embeda w roli ikony
+- plik `title.txt` - tytuł; jest w formacie Markdown[^3]
+- plik `description.md` - treść embeda; jest w formacie Markdown[^3]
+- plik `color.txt` - kolor ramki embeda; wartość w formacie hex, czyli np. `#FF0000` to czerwony - można sobie podejrzeć np. na [tej stronie](https://htmlcolorcodes.com/color-picker/)
+- plik `url.txt` - link skojarzony z embedem - otwiera się, jak się kliknie tytuł embeda (przykład: strony fandomowe we #współpraca-partners)
+- plik `thumbnail.txt` - link do obrazka wyświetlanego z boku embeda w roli ikony (przykład: strony fandomowe we #współpraca-partners)
 
 ## 2. Skąd brać identyfikatory użytkowników, grup, kanałów, emotek...?
 
@@ -53,7 +57,7 @@ Gałąź (ang. *branch*) to taka prywatna[^5] piaskownica, w której możemy sob
 
 ![Widok wyszukiwarki gałęzi w repozytorium](https://github.com/user-attachments/assets/e504580e-146c-4ef2-b7aa-e2b54bb67ccd)
 
-Aby utworzyć nową gałąź, należy kliknąć przycisk z symbolem gałęzi w lewym górnym rogu strony (jak na obrazku powyżej). Wpisujemy wymyśloną dla gałęzi nazwę. Unikalną, ale najlepiej-krotka-i-bez-polskich-znakow. Nazwę musimy zapamiętać, żeby później móc na tę gałąź się przełączać i na niej pracować. Jak już wpiszemy nazwę, to klikamy "Create branch **...** from **main**":
+Aby utworzyć nową gałąź, należy kliknąć przycisk z symbolem gałęzi w lewym górnym rogu strony (jak na obrazku powyżej). Wpisujemy wymyśloną dla gałęzi nazwę. Unikalną, ale najlepiej-krotka-i-bez-polskich-znakow. Nazwę musimy zapamiętać, żeby później móc na tę gałąź się przełączać i na niej pracować. Jak już wpiszemy nazwę (:warning: ważne, bo wcześniej przycisk się nie pokaże), to klikamy "Create branch **...** from **main**":
 
 ![obraz](https://github.com/user-attachments/assets/f0a37cad-6cea-48a0-9d40-d2290cc7f2ee)
 
@@ -96,9 +100,11 @@ Otworzy nam się widok edytora. Pierwsze, co musimy zrobić, to podać nazwę no
 
 ![obraz](https://github.com/user-attachments/assets/1e56e9ab-ca06-40bd-bde0-218a3db8fae4)
 
-⚠️ **UWAGA!** Ponieważ GitHub nie pozwala na tworzenie pustych folderów, jedynym sposobem na stworzenie nowego folderu jest wpisanie w nazwie pliku całej ścieżki z ukośnikami (`/`). Np. wpisanie `02/description.md` spowoduje utworzenie nowego folderu `02`, a w nim pliku `description.md`:
+⚠️ **UWAGA!** Ponieważ GitHub nie pozwala na tworzenie pustych folderów, jedynym sposobem na stworzenie nowego folderu jest wpisanie w nazwie pliku dodatkowej części ścieżki z ukośnikami (`/`). Np. wpisanie `02/description.md` spowoduje utworzenie nowego folderu `02`, a w nim pliku `description.md`:
 
 ![obraz](https://github.com/user-attachments/assets/e3a51df2-ae6b-4f1c-bcfa-ac00279e3176)
+
+Nie trzeba wpisywać całej ścieżki (np. `przygody-reksia-discord-webhooks/data/faq/002/embeds/02/description.md`), tylko nowy kawałek (np. `02/description.md`).
 
 Dalej procedura przebiega jak przy modyfikacji: wpisujemy coś w treść i zapisujemy poprzez "Commit changes...".
 
@@ -122,7 +128,7 @@ Korzystamy z wyszukiwarki, żeby znaleźć wybraną gałąź. Następnie klikamy
 
 ![obraz](https://github.com/user-attachments/assets/0176bd09-6b57-49a8-a408-d3097df1c618)
 
-W nowym oknie wyświetla nam się, że po ocenie gałąź zostanie włączona go gałęzi głównej `main`. Możemy dodać tytuł ("Add a title") oraz opis ("Add a description") pracy wykonanej na gałęzi. Po wszystkim klikamy "Create pull request":
+W nowym oknie wyświetla nam się, że po ocenie gałąź zostanie włączona do gałęzi głównej `main`. Możemy dodać tytuł ("Add a title") oraz opis ("Add a description") pracy wykonanej na gałęzi. Po wszystkim klikamy "Create pull request":
 
 ![obraz](https://github.com/user-attachments/assets/648aa129-42f8-4004-a329-80318ee0960e)
 
@@ -134,16 +140,25 @@ Sekcja "Assignees" to osoby odpowiedzialne za zmiany. Zwykle dodajemy tu siebie 
 
 ![obraz](https://github.com/user-attachments/assets/884ad42b-0a27-482b-9d22-e7c19f0d415b)
 
+Na górze strony pull requesta są zakładki:
+
+![obraz](https://github.com/user-attachments/assets/4e2b80e1-c49b-4d5a-ac23-ebd0e4fa197a)
+
 Lista zmian widoczna jest w zakładce "Files changed":
 
 ![obraz](https://github.com/user-attachments/assets/0f8345c7-fd87-456a-9a8d-55ee576b62c6)
 
-Gdy proces oceny zakończy się pomyślnie, pozostaje zatwierdzić wszystko przyciskiem "Merge pull request":
+Gdy proces oceny zakończy się pomyślnie, pozostaje zatwierdzić wszystko przyciskiem "Merge pull request" (na dole zakładki "Conversations"):
 
 ![obraz](https://github.com/user-attachments/assets/55472aee-5e8f-4b02-9647-6259aab52a94)
+
+## Ważne rzeczy na koniec
+
+:warning: **UWAGA!** Nie wolno umieszczać skopiowanych z Discorda webhooków bezpośrednio w żadnym pliku. Są to prywatne linki i należy przechowywać je w bezpieczny sposób. Takim sposobem jest wklejenie ich na listę ["Secrets"](https://github.com/PrzygodyReksiaDiscord/webhooks/settings/secrets/actions) tego repozytorium. Można się do nich potem odwołać w plikach `targets.txt` po krótszej nazwie, np. `$RULES_WEBHOOK_URL` (uwaga na symbol dolara na początku).
 
 [^1]: Co nie jest do końca prawdą. Regulamin na przykład jest wrzucany równolegle na dwa kanały (jeden oryginalny i jedna kopia dla niezweryfikowanych).
 [^2]: Nie ma znaczenia tak naprawdę, czy wszystkie numerki są zajęte i następują bezpośrednio po sobie. Wszystkie nazwy folderów są zbierane i sortowane alfabetycznie, więc to jest tylko takie uproszczenie dla edytującego.
 [^3]: Pozwala to podejrzeć bezpośrednio na GitHubie, jak treść będzie *mniej więcej* (no nie w pełni, niestety) wyglądać na Discordzie. Chodzi o formatowanie (wytłuszczenie, kursywę, podkreślenie, przekreślenie), listy, nagłówki, niektóre emotki.
 [^4]: Można, ale nie trzeba. Pozycje z listy są w większości opcjonalne. Jeśli któryś okaże się wymagany, to pipeline zacznie krzyczeć, ale tym już się będzie martwił autor niniejszego repozytorium.
 [^5]: Oczywiście można pracować na jednej gałęzi wspólnie. Chodzi natomiast o to, że zmiany nie sa publicznie widoczne, dopóki siedzą sobie na swojej gałęzi. Dopiero po włączeniu ich do głównej gałęzi (`main`) webhooki dokonują aktualizacji wiadomości.
+[^6]: Folder kanału zawiera też plik `targets.txt`, gdzie w kolejnych liniach wypisane są nazwy webhooków powiązanych z tym kanałem.
