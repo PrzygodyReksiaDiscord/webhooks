@@ -53,7 +53,7 @@ const readMessageBody = async (parentPath) => {
         const contents = await readFile(`${parentPath}/${MESSAGE_BODY_FILENAME}`, { encoding: 'utf8' });
         return ensureNotEmpty(contents);
     } catch {
-        return null;
+        return ensureNotEmpty('');
     }
 };
 
@@ -99,7 +99,7 @@ const readEmbeds = async (parentPath) => {
         embedDirs.sort();
         return await Promise.all(embedDirs.map(dir => buildEmbed(dir)));
     } catch {
-        return null;
+        return [];
     }
 };
 
@@ -111,7 +111,7 @@ const readAttachments = async (parentPath) => {
         attachmentPaths.sort();
         return await Promise.all(attachmentPaths.map(path => readFile(path)));
     } catch {
-        return null;
+        return [];
     }
 };
 
