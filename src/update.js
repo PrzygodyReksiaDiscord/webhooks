@@ -20,17 +20,23 @@ const ensureNotEmpty = (str) => (str.trim().length > 0) ? str : '** **';
 
 const readTargetsFile = async (parentPath) => {
     const contents = await readFile(`${parentPath}/${CHANNEL_WEBHOOKS_FILENAME}`, { encoding: 'utf8' });
-    return contents.split('\n').map(line => {
-        line = line.trim();
-        if (line.startsWith('$')) {
-            const envValue = process.env[line.slice(1)];
-            if (!envValue) {
-                throw new Error(`Missing ENV: ${line}`);
+    return contents
+        .split('\n')
+        .map(line => line.trim())
+        .filter(line => line.length > 0)
+        .map(line => {
+            if (line.startsWith('$')) {
+                const envValue = process.env[line.slice(1)];
+                if (!envValue) {
+                    throw new Error(`Missing ENV: ${line}`);
+                }
+                line = envValue;
             }
-            line = envValue;
-        }
-        return line;
-    });
+            if (line.match(/^https:\/\/discord\.com\/api\/webhooks\/\d+\/[A-Za-z0-9_-]+$/) === null) {
+                throw new Error(`Expected a webhook URL: ${line}`);
+            }
+            return line;
+        });
 };
 
 const readReferencesFile = async (parentPath) => {
