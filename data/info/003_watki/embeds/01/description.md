@@ -9,6 +9,7 @@
 <#909192094055292968> - postowanie selfie. 
 <#909133916219252756> - rozmowy o zmyślonych związkach, czyli "shipach". 
 <#921110683653931069> - rozmowy o japońskich animacjach. Wymaga dostępu do <#909046538091778048> (jajo śmierdzi). 
-<#1094306163283206215> - rozmowy o zjawiskach paranormalnych, ezoterycznych i magicznych, a także pseudonauce, paranauce i protonauce. Wymaga dostępu do <#909046538091778048> (jajo śmierdzi).
+<#1094306163283206215> - rozmowy o zjawiskach paranormalnych, ezoterycznych i magicznych, a także pseudonauce, paranauce i protonauce. Wymaga dostępu do <#909046538091778048> (jajo śmierdzi). 
+<#1361967186020929549> - dyskusje o polityce rumuńskiej (głównie w języku rumuńskim i angielskim) i wszelkie rumuńskojęzyczne rozmowy polityczne. Wymaga dostępu do <#909046538091778048> (jajo śmierdzi). 
 ||<#1004866021108220005> - żarty, których nie przystoi postować nigdzie indziej, ale mieszczące się jeszcze w granicach regulaminu. Wymaga dostępu do <#909046538091778048> (jajo śmierdzi).||
 <#1233693523811893349> - wstawianie i ocenianie cytatów w formie dialogów oraz wiadomości z innych reksiowych platform/serwerów (obowiązuje regulamin <#1230099437423038535>).
