@@ -9,6 +9,7 @@
 <#909192094055292968> - posting selfies.
 <#909133916219252756> - conversations about imaginary relationships, or "ships".
 <#921110683653931069> - Japanese animation talks. Requires access to <#909046538091778048> (jajo śmierdzi).
-<#1094306163283206215> - conversations about paranormal, esoteric and magical phenomena, as well as pseudoscience, parascience and protoscience. Requires access to <#909046538091778048> (jajo śmierdzi).
+<#1094306163283206215> - conversations about paranormal, esoteric and magical phenomena, as well as pseudoscience, parascience and protoscience. Requires access to <#909046538091778048> (jajo śmierdzi). 
+<#1361967186020929549> - conversations about Romanian politics (mostly in Romanian and English) and other political discussions in Romanian. Requires access to <#909046538091778048> (jajo śmierdzi). 
 ||<#1004866021108220005> - humor too gross for any other channel, but still within the rules. Requires access to <#909046538091778048> (jajo śmierdzi).||
 <#1233693523811893349> - posting and rating quotes in the form of dialogues and messages from other Reksio platforms/servers (the rules in <#1230099437423038535> apply).
