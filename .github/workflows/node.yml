@@ -3,6 +3,10 @@ name: Update webhook messages
 on:
   push:
     branches: [ "main" ]
+  workflow_dispatch:
+
+env:
+  BRANCH_NAME: ${{ github.head_ref || github.ref_name }} 
 
 jobs:
   run:
@@ -18,8 +22,9 @@ jobs:
     - uses: oNaiPs/secrets-to-env-action@v1
       with:
         secrets: ${{ toJSON(secrets) }}
+    - run: node src/process.js
     - run: node src/update.js
 
 concurrency:
-  group: ${{ github.workflow }}
+  group: ${{ github.workflow }}-$BRANCH_NAME
   cancel-in-progress: true

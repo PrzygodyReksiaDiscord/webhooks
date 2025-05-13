@@ -1,0 +1,71 @@
+name: Rust
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+        with:
+          repository: "discohook/site"
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: 16
+      - name: Setup cache
+        uses: actions/cache@v4.2.0
+        id: cache
+        with:
+          path: |
+            node_modules
+            .yarn/cache
+          key: ubuntu-latest-16-${{ hashFiles('yarn.lock') }}
+      - name: Build project
+        run: yarn run build
+  web:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ./repo
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: ./repo
+          fetch-depth: 0
+      - name: Install dependencies
+        run: |
+          sudo apt-get install g++ pkg-config libx11-dev libasound2-dev libudev-dev libxkbcommon-x11-0
+          cargo install wasm-bindgen-cli
+      - uses: Swatinem/rust-cache@v2
+        with:
+          shared-key: ${{ runner.os }}-cargo-${{ hashFiles('**/Cargo.lock') }}
+          workspaces: "repo -> target"
+      - name: Build debug
+        run: cargo build --target wasm32-unknown-unknown --all --verbose -Zbuild-std=std,panic_abort
+      - name: Generate files for debug
+        run: |
+          mkdir -p ../out/debug
+          wasm-bindgen --no-typescript --target web --out-dir ../out/debug/ --out-name "pixlib" ./target/wasm32-unknown-unknown/debug/pixlib.wasm
+      - name: Build release
+        run: cargo build --profile release-small --target wasm32-unknown-unknown --all --verbose -Zbuild-std=std,panic_abort
+      - name: Generate files for release
+        run: |
+          mkdir -p ../out/release
+          wasm-bindgen --no-typescript --target web --out-dir ../out/release/ --out-name "pixlib" ./target/wasm32-unknown-unknown/release-small/pixlib.wasm
+      - name: Update gh-pages and push changes
+        run: |
+          git config user.email "github-actions@github.com"
+          git config user.name "github-actions"
+          git clean -xdf
+          git checkout gh-pages
+          git pull
+          cp -R ../out/* .
+          test ! -d ./target
+          git add .
+          git commit -m "Update files" && git push || echo "No changes to commit"
