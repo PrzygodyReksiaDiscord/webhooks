@@ -23,7 +23,7 @@ W każdym folderze kanału poszczególne wiadomości zawarte są wewnątrz folde
 W folderze powiązanym z konkretną wiadomością można znaleźć[^4] następujące pliki i podfoldery:
 
 - plik `content.md` - zawartość wiadomości; jest w formacie Markdown[^3]
-- plik `references.txt` - linki do powiązanych wiadomości na Discordzie, na których ma być wykonana edycja; jeśli chcemy stworzyć nową wiadomość, to ten plik pomijamy (tylko :warning: **UWAGA**, bo trzeba pamiętać, żeby go stworzyć przy następnej okazji)
+- plik `references.txt` - linki do powiązanych wiadomości na Discordzie, na których ma być wykonana edycja; jeśli chcemy stworzyć nową wiadomość, to ten plik pomijamy
 - folder `embeds` - podfolder opisujący kolejne embedy (struktura opisana niżej); znowu numerowane: `01`, `02`, `03` itd.[^2]
 - folder `attachments` - podfolder na załączniki; tutaj po prostu wrzucamy pliki i numerki umieszczamy na początku ich nazwy, np. [`01_DoubleCounter_verify.png`](./data/verification/003_instrukcja/attachments/01_DoubleCounter_verify.png)
 
@@ -115,6 +115,8 @@ Musimy najpierw znaleźć dany plik. Jak już będziemy mieć widok na jego tre�
 ![obraz](https://github.com/user-attachments/assets/0866575d-ed7b-4f44-a227-6111fffdfc3e)
 
 ⚠️ **UWAGA!** Usunięcie pliku również trzeba zapisać poprzez przycisk "Commit changes...".
+
+⚠️ **UWAGA2!** Usunięcie folderu z wiadomością nie spowoduje usunięcia wiadomości z Discorda, ale jest wymagane do zrobienia tego ręcznie.
 
 ### 3.3. Otwieranie dyskusji nad zmianami
 

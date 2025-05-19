@@ -167,7 +167,8 @@ for (const channelDir of channelDirs) {
             console.log(`  [${client.id}] Message sent (ID: ${sentMessage.id}): ${messageDir}`);
             await appendFile(
                 `${messageDir}/${MESSAGE_REFERENCES_FILENAME}`,
-                `https://discord.com/channels/${GUILD_ID}/${sentMessage.channel_id}/${sentMessage.id}`,
+                `https://discord.com/channels/${GUILD_ID}/${sentMessage.channel_id}/${sentMessage.id}\n`,
+                { encoding: 'utf8' }
             );
         }
     }
