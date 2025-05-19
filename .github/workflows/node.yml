@@ -11,6 +11,12 @@ jobs:
   run:
     runs-on: ubuntu-latest
     steps:
+    - name: Uwierzytelnienie
+      id: generate-token
+      uses: actions/create-github-app-token@v2
+      with:
+        app-id: ${{ vars.APP_ID }}
+        private-key: ${{ secrets.APP_PRIVATE_KEY }}
     - name: Pobranie repozytorium
       uses: actions/checkout@v4
     - name: Instalacja Node.js
@@ -27,11 +33,14 @@ jobs:
     - name: Uruchomienie skryptu
       run: node src/update.js
     - name: Aktualizacja repozytorium o linki do stworzonych wiadomości
+      env:
+        GITHUB_TOKEN: ${{ steps.generate-token.outputs.token }}
       run: |
         git config user.email "github-actions@github.com"
         git config user.name "github-actions"
         git add .
-        git commit -m "Dodanie linków do stworzonych wiadomości" && git push || echo "Nic nowego"
+        git commit -m "Dodanie linków do stworzonych wiadomości" || echo "Nic nowego"
+        git push
 
 concurrency:
   group: ${{ github.workflow }}
