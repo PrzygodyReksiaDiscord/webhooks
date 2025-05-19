@@ -11,18 +11,23 @@ jobs:
   run:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
-    - name: Install Node.js
+    - name: Pobranie repozytorium
+      uses: actions/checkout@v4
+    - name: Instalacja Node.js
       uses: actions/setup-node@v4
       with:
         node-version: 22.x
         cache: 'npm'
-    - run: npm ci
-    - uses: oNaiPs/secrets-to-env-action@v1
+    - name: Instalacja bibliotek
+      run: npm ci
+    - name: Wczytanie tajnych danych
+      uses: oNaiPs/secrets-to-env-action@v1
       with:
         secrets: ${{ toJSON(secrets) }}
-    - run: node src/update.js
-    - run: |
+    - name: Uruchomienie skryptu
+      run: node src/update.js
+    - name: Aktualizacja repozytorium o linki do stworzonych wiadomości
+      run: |
         git config user.email "github-actions@github.com"
         git config user.name "github-actions"
         git add .
