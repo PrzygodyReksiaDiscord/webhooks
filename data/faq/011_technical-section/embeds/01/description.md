@@ -1,9 +1,9 @@
 **1. Games are laggy. Sometimes previous animation frames just remain on the screen, covering the background. How can I fix that?** Use a “wrapper” - a file or a program that will help the game display its graphics correctly. Currently recommended wrappers are [cnc-ddraw](https://discord.com/channels/822931925618524240/909046389227536426/1155563864147120308) and [DxWnd](https://www.przygodyreksia.aidemmedia.pl/pliki/kretes/forum/reksioforum/viewtopic.php?p=261312#p261312). Warning: only one wrapper should be used at a time.
 **2. Games are not launching or they do but then crash after some time.** First, try out built-in compatibility modes, e.g. Windows XP (Service Pack 3): https://support.microsoft.com/en-us/windows/make-older-apps-or-programs-compatible-with-windows-783d6dd7-b439-bdb0-0490-54eea0f45938. Warning: some of the modes cause your saves to be reset - make a backup if needed.
 Sometimes reinstalling the game helps. For that, you should use an ISO from a trusted site (see item 1 from the Adventures of Reksio section of this FAQ).
-If there’s a pop-up about missing CD before the game exits, you should mount the ISO (by double-clicking it on Windows 10/11) or insert the physical disk into your CD drive. 
-Some crashes are caused by bugs in the games. They can be fixed by applying patches (see item 8 below). 
-**3. I’ve heard you can run the games in windowed mode. How to do this?** When using recommended wrappers (see item 1 above), you can enter windowed mode by: 
+If there’s a pop-up about missing CD before the game exits, you should mount the ISO (by double-clicking it on Windows 10/11) or insert the physical disk into your CD drive.
+Some crashes are caused by bugs in the games. They can be fixed by applying patches (see item 8 below).
+**3. I’ve heard you can run the games in windowed mode. How to do this?** When using recommended wrappers (see item 1 above), you can enter windowed mode by:
 - (cnc-ddraw) pressing Alt-Enter when the game is running,
 - (DxWnd) changing game configuration in DxWnd before starting the game.
 Without wrappers, you can append -window option to the game shortcut according to the instructions: https://discord.com/channels/822931925618524240/909046389227536426/931969299407577138.

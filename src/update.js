@@ -1,5 +1,7 @@
 import { EmbedBuilder, WebhookClient } from 'discord.js';
-import { readdir, readFile } from 'node:fs/promises';
+import { readdir, readFile, appendFile } from 'node:fs/promises';
+
+const GUILD_ID = '822931925618524240';
 
 const DATA_DIR = './data';
 
@@ -161,8 +163,13 @@ for (const channelDir of channelDirs) {
             }
         }
         for (const client of unusedClients) {
-            const messageId = (await client.send(message)).id;
-            console.log(`  [${client.id}] Message sent (ID: ${messageId}): ${messageDir}`)
+            const sentMessage = (await client.send(message));
+            console.log(`  [${client.id}] Message sent (ID: ${sentMessage.id}): ${messageDir}`);
+            await appendFile(
+                `${messageDir}/${MESSAGE_REFERENCES_FILENAME}`,
+                `https://discord.com/channels/${GUILD_ID}/${sentMessage.channel_id}/${sentMessage.id}\n`,
+                { encoding: 'utf8' }
+            );
         }
     }
 }

@@ -1,6 +1,6 @@
 # Zaproszenia na ten serwer Discord / Invite links to this Discord server
 
-Z przeznaczeniem na Discorda/ For Discord: 
+Z przeznaczeniem na Discorda/ For Discord:
 https://discord.gg/WKz6qwEzeX
 
 Z przeznaczeniem na YouTube'a / For YouTube:
