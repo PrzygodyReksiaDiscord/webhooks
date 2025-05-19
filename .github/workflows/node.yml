@@ -2,7 +2,8 @@ name: Update webhook messages
 
 on:
   push:
-    branches: [ "main", "test/references-txt-auto-setup" ]
+    branches: [ "main" ]
+  workflow_dispatch:
 
 permissions:
   contents: write
