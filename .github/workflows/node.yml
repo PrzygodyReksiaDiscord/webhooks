@@ -2,7 +2,7 @@ name: Update webhook messages
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "main", "test/references-txt-auto-setup" ]
 
 permissions:
   contents: write
