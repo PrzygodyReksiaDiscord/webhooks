@@ -2,6 +2,7 @@
 <#1178965171587272724> - conversations about Aidem Media games aside from "The Adventures of Reksio" series.
 <#1378388276800524371> - Japanese animation talks.
 <#909056082897436732> - conversations about "The Witcher" game series.
+<#1379924242979750049> - conversations about Reksio-related art. 
 <#945225687617388544> - musical works not related to Reksio (also, discussing music tastes).
 <#987630870045270016> - generating texts, images, etc. using artificial intelligence.
 <#940904445343060028> - memes connected with fandom and its members but not directly with the Adventures of Reksio series.

@@ -2,6 +2,7 @@
 <#1178965171587272724> - rozmowy o grach Aidem Media spoza serii "Przygody Reksia".
 <#1378388276800524371> - rozmowy o japońskich animacjach.
 <#909056082897436732> - rozmowy o serii gier "Wiedźmin".
+<#1379924242979750049> - rozmowy na temat reksiowej twórczości.
 <#945225687617388544> - twórczość muzyczna (plus polecajki).
 <#987630870045270016> - generowanie tekstów, obrazów itp. z użyciem sztucznej inteligencji.
 <#940904445343060028> - memy związane z fandomem i jego członkami, ale nie bezpośrednio z Przygodami Reksia.
