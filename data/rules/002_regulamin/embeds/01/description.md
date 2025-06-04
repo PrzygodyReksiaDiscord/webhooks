@@ -7,7 +7,7 @@
 4. Obowiązuje zakaz treści NSFW i obraźliwych. Obejmuje to nagość, seks, dotkliwą przemoc i inne poważnie niepokojące treści. Nie akceptujemy również oszustw, wyłudzania danych i celowego wprowadzania w błąd innych użytkowników.
 
 5. Dyskutowanie kontrowersyjnych tematów, zwłaszcza politycznych, a także wstawianie treści powiązanych z nimi jest dozwolone wyłącznie na kanale ⁠⁠<#909046538091778048>. Dostęp do niego uzyskuje się, wybierając odpowiednią rolę w <#909039228904689675>. 
-Wyjątkiem jest twórczość, dozwolona wzdłuż i wszerz, niezależnie od tego czy zahacza o tematykę orientacji, religii, tożsamości czy w inny sposób powiązany ze światopoglądem. Administracja zastrzega sobie prawo do usuwania czy przenoszenia niektórych treści na ⁠⁠<#909046538091778048>, jeśli łamią zasadę dobrego smaku lub budzą wiele skrajnych emocji, szkodząc dobru całego serwera. 
+Wyjątkiem jest twórczość dozwolona niezależnie od tego czy zahacza o tematykę orientacji, religii, tożsamości czy w inny sposób powiązana jest ze światopoglądem. Administracja zastrzega sobie prawo do usuwania czy przenoszenia niektórych treści na ⁠⁠<#909046538091778048>, jeśli łamią zasadę dobrego smaku lub budzą wiele skrajnych emocji, szkodząc dobru całego serwera. 
 Dyskusje na kanałach głosowych mogą dotyczyć kontrowersji, o ile odpowiada to wszystkim rozmówcom. 
 
 6. Spamowanie wiadomościami jest dozwolone wyłącznie na kanale <#909046498166186036> (jednak z poszanowaniem przypiętych tam zasad), zaś komendami do obsługi botów na <#909046513085321237>.

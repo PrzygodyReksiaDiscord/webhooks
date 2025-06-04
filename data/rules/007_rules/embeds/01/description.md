@@ -7,7 +7,7 @@
 4. NSFW and offensive content is prohibited. This includes nudity, sex, severe violence, or other seriously disturbing content. We neither tolerate fraud nor phishing or intentional misinformation.
 
 5. Discussions over controversial topics, especially political ones, as well as related content are allowed only on the⁠ <#909046538091778048> channel. To access it, you need to choose the appropriate role on <#909039228904689675>. 
-Creative work is an exception - regardless of whether it relates to orientation, religion, identity or other possibly controversial topics. The Administration reserves the right to move a post to <#909046538091778048> if it exceeds the limits of good taste or provokes diverse and strong reactions that pose a threat to the server's well-being. 
+Creative work is an exception - regardless of whether it relates to orientation, religion, identity or other topics regarding worldview. The Administration reserves the right to move a post to <#909046538091778048> if it exceeds the limits of good taste or provokes diverse and strong reactions that pose a threat to the server's well-being. 
 Voice discussions can also touch upon controversial topics, but only if all disputants agree on it.
 
 6. Spamming with messages is allowed only on <#909046498166186036> (but respecting the rules pinned there), with bot commands on <#909046513085321237>.
