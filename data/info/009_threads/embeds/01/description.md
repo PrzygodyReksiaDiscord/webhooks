@@ -1,5 +1,6 @@
 <#924724434697351238> - sharing photos, scans and descriptions of your AM games.
 <#1178965171587272724> - conversations about Aidem Media games aside from "The Adventures of Reksio" series.
+<#1389650182462771321> - arranging virtual watch parties.
 <#1378388276800524371> - Japanese animation talks.
 <#909056082897436732> - conversations about "The Witcher" game series.
 <#1379924242979750049> - conversations about Reksio-related art. 
