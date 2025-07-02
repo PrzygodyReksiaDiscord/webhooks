@@ -4,4 +4,4 @@ Szeroko pojęta twórczość fanowska - od prac artystycznych po fanowskie modyf
 - Fanowskie projekty wszelkiej maści: <#1267124105308536862>
 - Speedruny: <#909046403681095711>
 - Rozmowy na temat reksiowych Wiki: <#909046426535862282>
-- Wystawianie na sprzedaż przedmiotów związanych z Reksiem i grami AM: <#1048317896209731685>
+- Wystawianie na sprzedaż przedmiotów związanych z Reksiem / grami AM lub innej własnej twórczości: <#1048317896209731685>
