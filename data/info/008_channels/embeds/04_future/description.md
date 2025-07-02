@@ -4,4 +4,4 @@ Various fan creations - from artistic works to fanmade modifications and merch.
 - Various fan projects: <#1267124105308536862>
 - Speedruns: <#909046403681095711>
 - Conversations about Reksio wikis: <#909046426535862282>
-- Listing items related to Reksio/AidemMedia games or other own creations for sale: <#1048317896209731685>
+- Listing items related to Reksio / AidemMedia games or other own creations for sale: <#1048317896209731685>
