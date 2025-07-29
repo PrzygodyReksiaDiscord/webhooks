@@ -1,1 +1,2 @@
-Larger fan projects.
+- Various fan projects (usually smaller ones): <#1267124105308536862>
+- Larger fan projects (on separate channels).
