@@ -4,3 +4,4 @@ The most important information about the server as well as various useful links 
 - FAQ: <#1230633174011478106>
 - Links to various Reksio-related sites and allied Discord servers: <#1180897879557152809>
 - Greeting new users and saying goodbye to quitting users: <#909039758402019358>
+- The channel for self-introduction in any form: <#1398992297705603222>
