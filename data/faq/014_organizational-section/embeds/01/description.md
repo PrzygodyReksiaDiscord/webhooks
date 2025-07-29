@@ -4,10 +4,13 @@
 If you want to discuss a longer topic (so that it is not a one-off conversation), you can create a so-called thread. To create one, just click on the inclined thread spool icon on the top right and then click on the “Create” button. Remember to create new threads carefully and to keep them thematically related to the channel to which they belong (or to create them in general channels in the absence of more closely related ones). Example: you can create a thread for walkthroughs of Reksio games on the <#909041092895326248> channel and a thread about mushroom picking on <#909041188810661898>.
 **4.** **What’s the purpose of bots present on the server?**
 - Double Counter - account verification
-- Carl-bot - reaction roles on <#909039228904689675> and in some server games, logging
+- Carl-bot - reaction roles on <#909039228904689675>
 - MEE6 - welcome messages
-- YAGPDB.xyz - leveling system, custom command (which can be listed by texting !cc on <#909046513085321237>)
-- DISBOARD - keeping an invite to this server on the disboard.org list
+- YAGPDB.xyz - leveling system, custom commands (which can be listed by texting !cc on <#909046513085321237>)
+- Starboard - displaying the most valued messages in the <#1230099437423038535> channel
 - Tatsu - fun, economy
 - NotSoBot - fun, searching and manipulating images
-Bot commands can be used freely on the <#909046513085321237> channel and the music bot can be managed on the <#913174618997665882> thread.
+- FreeStuff - posting information about free games in the <#1399338757534257284> thread
+- DISBOARD - keeping an invite to this server on the disboard.org list
+- Sapphire - event log
+Bot commands can be used freely on the <#909046513085321237> channel.
