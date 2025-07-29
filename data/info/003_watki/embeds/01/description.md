@@ -3,9 +3,9 @@
 <#1178965171587272724> - rozmowy o grach Aidem Media spoza serii "Przygody Reksia".
 <#1389650182462771321> - umawianie się na wspólne oglądanie filmów.
 <#1378388276800524371> - rozmowy o japońskich animacjach.
-<#1399337579299737601> - miejsce do umawiania się na wspólną grę.
+<#1399337579299737601> - umawianie się na wspólną grę.
 <#1399338757534257284> - wątek dla łowców promocji od bota <@672822334641537041>. 
-<#1399014172523630602> - speedruny gier nienależących do serii Przygód Reksia. 
+<#1399014172523630602> - speedrunowanie gier nienależących do serii "Przygody Reksia".
 <#909056082897436732> - rozmowy o serii gier "Wiedźmin".
 <#1379924242979750049> - rozmowy na temat reksiowej twórczości.
 <#945225687617388544> - twórczość muzyczna (plus polecajki).

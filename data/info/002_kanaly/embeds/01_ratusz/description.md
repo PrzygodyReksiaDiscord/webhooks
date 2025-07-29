@@ -4,4 +4,4 @@ Najważniejsze informacje związane z serwerem oraz przydatne linki dotyczące g
 - FAQ: <#1230633174011478106>
 - Linki do różnych ośrodków reksiowej społeczności oraz zaprzyjaźnionych serwerów: <#1180897879557152809>
 - Witanie nowych i żegnanie wychodzących użytkowników: <#909039758402019358>
-- Kanał do przedstawiania się w dowolnej formie: <#1398992297705603222>
+- Przedstawianie się: <#1398992297705603222>

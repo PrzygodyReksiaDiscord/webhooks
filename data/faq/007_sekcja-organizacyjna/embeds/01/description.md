@@ -11,6 +11,6 @@ Jeśli chcesz pociągnąć jakiś temat dłużej (tak, by nie był jednorazową 
 - Tatsu - zabawy, ekonomia
 - NotSoBot - zabawy, wyszukiwanie i edycja obrazków
 - FreeStuff - wysyłanie na wątku <#1399338757534257284> informacji o darmowych grach
-- DISBOARD - wyświetlanie zaproszenia na serwer na publicznej liście disboard.org
+- DISBOARD - wyświetlanie zaproszenia na serwer na publicznej liście [disboard.org](<https://disboard.org/>)
 - Sapphire - dziennik zdarzeń
 Komend botów można używać do woli na kanale <#909046513085321237>.

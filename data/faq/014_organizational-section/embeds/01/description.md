@@ -11,6 +11,6 @@ If you want to discuss a longer topic (so that it is not a one-off conversation)
 - Tatsu - fun, economy
 - NotSoBot - fun, searching and manipulating images
 - FreeStuff - posting information about free games in the <#1399338757534257284> thread
-- DISBOARD - keeping an invite to this server on the disboard.org list
+- DISBOARD - keeping an invite to this server on the [disboard.org](<https://disboard.org/>) list
 - Sapphire - event log
 Bot commands can be used freely on the <#909046513085321237> channel.
