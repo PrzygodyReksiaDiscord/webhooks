@@ -12,4 +12,4 @@ Voice discussions can also touch upon controversial topics, but only if all disp
 
 6. Spamming with messages is allowed only on <#909046498166186036> (but respecting the rules pinned there), with bot commands on <#909046513085321237>.
 
-7. We only talk on the appropriate channels. The off-topic is not very polite! Except for gambling commands reserved for <#909046513085321237> and for music commands, you can use bots on all channels, but in moderation and in the context of the conversation.
+7. We only talk on the appropriate channels. The off-topic is not very polite! Except for gambling commands reserved for <#909046513085321237>, you can use bots on all channels, but in moderation and in the context of the conversation.
