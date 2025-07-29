@@ -1,7 +1,11 @@
+<#1399002875555745906> - speedruns of the Adventures of Reksio games.
 <#924724434697351238> - sharing photos, scans and descriptions of your AM games.
 <#1178965171587272724> - conversations about Aidem Media games aside from "The Adventures of Reksio" series.
 <#1389650182462771321> - arranging virtual watch parties.
 <#1378388276800524371> - Japanese animation talks.
+<#1399337579299737601> (The Fellowship of the Ring) - arranging to play games together.
+<#1399338757534257284> - the thread for deal hunters from a bot <@672822334641537041>.
+<#1399014172523630602> - speedruns of games not belonging to the Adventures of Reksio series.
 <#909056082897436732> - conversations about "The Witcher" game series.
 <#1379924242979750049> - conversations about Reksio-related art. 
 <#945225687617388544> - musical works not related to Reksio (also, discussing music tastes).
