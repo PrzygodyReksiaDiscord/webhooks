@@ -4,7 +4,7 @@
 <#1389650182462771321> - arranging virtual watch parties.
 <#1378388276800524371> - Japanese animation talks.
 <#1399337579299737601> (The Fellowship of the Ring) - arranging to play games together.
-<#1399338757534257284> - the thread for deal hunters from a bot <@672822334641537041>.
+<#1399338757534257284> - announcement about free games posted by a bot <@672822334641537041>.
 <#1399014172523630602> - speedruns of games not belonging to the Adventures of Reksio series.
 <#909056082897436732> - conversations about "The Witcher" game series.
 <#1379924242979750049> - conversations about Reksio-related art. 
