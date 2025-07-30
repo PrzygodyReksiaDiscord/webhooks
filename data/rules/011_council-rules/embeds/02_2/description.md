@@ -1,0 +1,10 @@
+2a. Any server user may run for the Council if they: 
+	a) are at least 16 years old; 
+	b) have been on the server for at least one month and have level 1 activity, or have level 5 activity confirmed by the appropriate role; 
+	c) have not received a ban or five mutes (penalties expire one year after they end). 
+2b. At the end of each term, an announcement is posted on <#909038926247907359>  (the announcement board) about new Council elections, and the <#1173383222416122038> (election campaigns) channel is opened for election-related discussions. Current Council members are automatically included in the elections unless they choose to resign. Anyone can run by submitting their candidacy to an Administration member, the Council Chairman, or by expressing interest in <#1173383222416122038>/<#909039074059370527>.
+2c. One week after the announcement (on Sunday), voting takes place on <#909038926247907359> from 8:00 AM to 9:00 PM Polish time. Any user who has been on the server for at least one month and has level 1 activity or level 5 activity (confirmed by role) may vote for any number of candidates — **except themselves**. After 9:00 PM, eleven candidates with the most votes are elected to the Council. 
+2d. In case of a tie for the final spots, a runoff vote is held among the tied candidates from 8:00 AM to 9:00 PM the next day.
+2e. Foreign users may also participate in the elections. While serving as a Council member, they receive the title of Ambassador, meaning they help manage English-language channels. The Ambassador role may also be granted by the administration to users outside the Council, giving them access to Council channels, but without voting rights.
+2f. After all Council members are elected, an internal vote is held among them to choose the Chairman. This voting is conducted in #sala-kolumnowa (the column hall) by the previous Chairman or an Administration member. Voting ends when one candidate receives a majority of votes. The person with the majority becomes the new Chairman. 
+2g. After the entire procedure is complete, the <#1173383222416122038> channel is archived the next day until the next election begins.
