@@ -1,0 +1,4 @@
+5a. Taking part in discussions on the <#942534739846365214> channel.
+5b. Updating their personal board in Bobromiro — an online to-do list used by both the Council and the Administration, which tracks the progress of ideas and server projects. The link to Bobromiro is pinned on <#942534739846365214>.
+5c. Participating in votes on <#1173365836484976690>. Councilors' votes are taken into account, and in special cases, input from others with access to this channel may also be considered. If this point is not followed, the Chairman may remove irrelevant votes to keep polls clear.
+5d. Actively taking part in "herbatkas" — regular voice meetings of the Council and Administration focused on current matters. These are usually initiated by the Chairman on the voice channel <#1314956272776384594>. The date is always set in advance and confirmed via vote among Council and Administration members.

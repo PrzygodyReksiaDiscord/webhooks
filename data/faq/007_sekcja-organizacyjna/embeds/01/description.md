@@ -4,10 +4,13 @@
 Jeśli chcesz pociągnąć jakiś temat dłużej (tak, by nie był jednorazową rozmową), możesz założyć tzw. wątek. Aby utworzyć wątek, wystarczy, że klikniesz na ikonkę pochylonej szpuli z nicią po prawej stronie na górze, a potem na przycisk “Stwórz”. Pamiętaj, by tworzyć nowe wątki z rozwagą i by pasowały tematem do kanału (lub by znajdowały się na kanałach ogólnych, jeśli nie istnieje kanał o pokrewnej tematyce).  Przykład: wątek na solucje do gier z Reksiem możesz utworzyć na kanale <#909041092895326248>, a wątek dotyczący grzybobrania na kanale <#909041151879811122>.
 **4.** **Do czego służą boty obecne na serwerze?**
 - Double Counter - weryfikacja użytkowników
-- Carl-bot - nadawanie ról zgodnie z reakcjami na <#909039228904689675> oraz w zabawach, dziennik zdarzeń
+- Carl-bot - nadawanie ról zgodnie z reakcjami na <#909039228904689675>
 - MEE6 - wiadomości powitalne
 - YAGPDB.xyz - śledzenie poziomu doświadczenia użytkowników, własne komendy serwerowe (listę komend można poznać, wpisując !cc na kanale <#909046513085321237>)
-- DISBOARD - wyświetlanie zaproszenia na serwer na publicznej liście disboard.org
+- Starboard - wyświetlanie najbardziej cenionych wiadomości na kanale <#1230099437423038535>
 - Tatsu - zabawy, ekonomia
 - NotSoBot - zabawy, wyszukiwanie i edycja obrazków
-Komend botów można używać do woli na kanale <#909046513085321237>, a do obsługi bota muzycznego służy specjalny wątek <#913174618997665882>.
+- FreeStuff - wysyłanie na wątku <#1399338757534257284> informacji o darmowych grach
+- DISBOARD - wyświetlanie zaproszenia na serwer na publicznej liście [disboard.org](<https://disboard.org/>)
+- Sapphire - dziennik zdarzeń
+Komend botów można używać do woli na kanale <#909046513085321237>.

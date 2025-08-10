@@ -1,1 +1,2 @@
-Większe projekty fanowskie.
+- Fanowskie projekty wszelkiej maści (zwykle te mniejsze): <#1267124105308536862>
+- Większe projekty fanowskie (na osobnych kanałach).

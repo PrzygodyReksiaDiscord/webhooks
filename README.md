@@ -31,7 +31,7 @@ W folderze powiązanym z konkretną wiadomością można znaleźć[^4] następuj
 
 W folderze powiązanym z pojedynczym embedem (tj. w numerowanym podfolderze wewnątrz folderu `embeds`) można znaleźć[^4] następujące pliki:
 
-- plik `title.txt` - tytuł; jest w formacie Markdown[^3]
+- plik `title.md` - tytuł; jest w formacie Markdown[^3]
 - plik `description.md` - treść embeda; jest w formacie Markdown[^3]
 - plik `color.txt` - kolor ramki embeda; wartość w formacie hex, czyli np. `#FF0000` to czerwony - można sobie podejrzeć np. na [tej stronie](https://htmlcolorcodes.com/color-picker/)
 - plik `url.txt` - link skojarzony z embedem - otwiera się, jak się kliknie tytuł embeda (przykład: strony fandomowe we #współpraca-partners)
