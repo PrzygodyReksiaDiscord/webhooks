@@ -1,1 +1,1 @@
-6. Każdy większy omawiany pomysł na Radzie Serwera powinien zostać poddany głosowaniu i w przypadku:
+6. Każdy większy pomysł omawiany przez Radę Serwera powinien zostać poddany głosowaniu i w przypadku:
