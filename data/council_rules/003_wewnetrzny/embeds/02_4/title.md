@@ -1,1 +1,1 @@
-4. Wydalenie z Rady Serwera jej członka może zajść wtedy, gdy:
+4. Wydalenie z Rady Serwera może zajść:
