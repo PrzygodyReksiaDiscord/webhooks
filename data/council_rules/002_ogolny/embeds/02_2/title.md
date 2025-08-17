@@ -1,1 +1,1 @@
-2. Wybory do Rady Serwera.
+2. Wybory do Rady Serwera
