@@ -6,7 +6,7 @@
 
 11. Users who break the rules may receive a warning, a kick or Timeout/the <@&909039818728673360> role that makes them unable to write for a period specified by the administration. A milder form of muting is <@&1071088633366458470> (quarantine), which covers most channels not directly related to the server's topic.
 
-12. More bothersome behavior may result in a ban, the reasons and duration of which the user (if contact with him does not pose a threat to the server) and the community will be notified. Bans and mutes are imposed in accordance with the tariff available [below](<https://discord.com/channels/822931925618524240/1180897656663453840/1180906811881160716>).
+12. More bothersome behavior may result in a ban, the reasons and duration of which the user (if contact with him does not pose a threat to the server) and the community will be notified. Bans and mutes are imposed in accordance with the tariff available [below](<https://discord.com/channels/822931925618524240/1180897656663453840/1180906811881160716>). Transferring content and messages from banned users to the server is only permitted with the consent of the administration. 
 
 13. Multiaccounts are allowed only with the administators' permission. Unreported multiaccounts will be kicked out from the server, and the main account will be penalized with warn or ban. A user can replace their account on the server after reporting this intention to the administators, however this option shouldn't be used too often. To prevent multiaccounts, users are verified using a bot (<@703886990948565003>). If administrators suspect someone has an unreported multiaccount, they can take the verification back. Re-verification is automatic and can be done using the panel on <#1318222020520968342>.
 
