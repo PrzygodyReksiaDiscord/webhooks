@@ -1,4 +1,4 @@
-import { EmbedBuilder, WebhookClient } from 'discord.js';
+import { EmbedBuilder, MessageFlags, WebhookClient } from 'discord.js';
 import { readdir, readFile, appendFile } from 'node:fs/promises';
 
 const GUILD_ID = '822931925618524240';
@@ -9,6 +9,8 @@ const CHANNEL_WEBHOOKS_FILENAME = 'targets.txt';
 
 const MESSAGE_REFERENCES_FILENAME = 'references.txt';
 const MESSAGE_BODY_FILENAME = 'content.md';
+const MESSAGE_THREAD_NAME_FILENAME = 'thread_name.txt';
+const MESSAGE_THREAD_ID_FILENAME = 'thread_id.txt';
 const MESSAGE_EMBEDS_DIRNAME = 'embeds';
 const MESSAGE_ATTACHMENTS_DIRNAME = 'attachments';
 
@@ -117,6 +119,24 @@ const readAttachments = async (parentPath) => {
     }
 };
 
+const readThreadName = async (parentPath) => {
+    try {
+        const contents = await readFile(`${parentPath}/${MESSAGE_THREAD_NAME_FILENAME}`, { encoding: 'utf8' });
+        return ensureNotEmpty(contents);
+    } catch {
+        return undefined;
+    }
+};
+
+const readThreadId = async (parentPath) => {
+    try {
+        const contents = await readFile(`${parentPath}/${MESSAGE_THREAD_ID_FILENAME}`, { encoding: 'utf8' });
+        return contents;
+    } catch {
+        return undefined;
+    }
+};
+
 const buildMessage = async (parentPath) => {
     const content = await readMessageBody(parentPath);
     const embeds = await readEmbeds(parentPath);
@@ -124,7 +144,7 @@ const buildMessage = async (parentPath) => {
     return {
         content,
         embeds,
-        files
+        files,
     };
 };
 
@@ -143,14 +163,21 @@ for (const channelDir of channelDirs) {
         .map(e => `${channelDir}/${e.name}`);
     messageDirs.sort();
     for (const messageDir of messageDirs) {
-        const message = await buildMessage(messageDir);
+        const threadName = await readThreadName(messageDir);
+        const threadId = await readThreadId(messageDir);
+        const message = {
+            ...await buildMessage(messageDir),
+            threadName,
+            threadId,
+            flags: MessageFlags.SuppressNotifications,
+        };
         const editedMessageIds = await readReferencesFile(messageDir);
         const unusedClients = new Set(webhookClients);
         for (const messageId of editedMessageIds) {
             for (const client of unusedClients) {
                 let couldRead = true;
                 try {
-                    await client.fetchMessage(messageId);
+                    await client.fetchMessage(messageId, { threadId });
                 } catch (err) {
                     couldRead = false;
                 }

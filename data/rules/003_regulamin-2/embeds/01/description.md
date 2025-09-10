@@ -1,6 +1,6 @@
-8. Do zamieszczania reklam nie potrzeba zgody administratora. Wymagane jest jedynie, by reklamowane treści były zgodne z naszym regulaminem. Ogłoszenia dotyczące działalności artystycznej można zamieszczać na kanałach i wątkach twórczości, pozostałe powinny trafić na <#909046498166186036>.
+8. Do zamieszczania reklam nie potrzeba zgody administratora. Wymagane jest jedynie, by reklamowane treści były zgodne z naszym regulaminem. Oferty dotyczące działalności artystycznej można zamieszczać na kanałach i wątkach twórczości, ogłoszenia kupna/sprzedaży produktów Aidem Media w wątku <#1415121141885829212>, a pozostałe reklamy powinny trafić na odpowiedni wątek w <#1389709259708563556>.
 
-9. Wszelkie zabawy i RPG-i mogą być organizowane wyłącznie za zgodą administracji.
+9. Zabawy, konkursy i gry RPG mogą być organizowane na kanale <#1389709259708563556> zgodnie z jego regulaminem. Za zgodą administracji możliwe jest prowadzenie wspomnianych aktywności również w innych miejscach.
 
 10. Udostępniając na serwerze reksiową twórczość swojego autorstwa lub tworząc reksiowe emotki na jego potrzeby, wyrażasz zgodę na kopiowanie i rozpowszechnianie ich przez innych użytkowników.
 
