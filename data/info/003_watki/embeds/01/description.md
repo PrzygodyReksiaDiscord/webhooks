@@ -1,5 +1,6 @@
 <#1399002875555745906> - speedruny Przygód Reksia i innych gier Aidem Media.
 <#924724434697351238> - dzielenie się zdjęciami, skanami i opisami posiadanych gier AM.
+<#1415121141885829212> - oferty sprzedaży płyt z reksiowymi grami.
 <#1178965171587272724> - rozmowy o grach Aidem Media spoza serii "Przygody Reksia".
 <#1389650182462771321> - umawianie się na wspólne oglądanie filmów.
 <#1378388276800524371> - rozmowy o japońskich animacjach.
