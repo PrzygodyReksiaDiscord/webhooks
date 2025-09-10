@@ -1,6 +1,6 @@
 <#1399002875555745906> (Reksio Speedruns) - speedruns of the Adventures of Reksio and other Aidem Media games.
 <#924724434697351238> (Collections) - sharing photos, scans and descriptions of your AM games.
-<#1415121141885829212> (CDs for sale) - offers of CDs with Reksio games for sale or purchase.
+<#1415121141885829212> (CDs for sale) - a place for buying and selling Aidem Media games.
 <#1178965171587272724> (Aidem Media games) - conversations about Aidem Media games aside from "The Adventures of Reksio" series.
 <#1389650182462771321> (movie club) - arranging virtual watch parties.
 <#1378388276800524371> (🌾rice-underworld🍚) - Japanese animation talks.
