@@ -4,7 +4,7 @@
   - quizzes conducted on voice channels - the <#981501885678764072> channel is dedicated for their organizers
   - Discord Activities - these do not yet work in threads, so they should be played in <#909046594421293076> or in the text chats of voice channels for now
   - bracket polls regarding Aidem Media games or the Adventures of Reksio fandom - these may receive their own channel (please consult the Staff)
-  - bracket polls composed of 3 or fewer votes - as they are too short for their own thread, they should be held in <#909202745238642720>
+  - bracket polls composed of 3 or fewer votes - as they are too short for their own thread, they should be held in <#1416854032349134969> (#polls)
   Creating game projects and then developing them together with others is also allowed.
 2. Before starting a new thread, check for existing similar ones.
 3. In your first message, explain the rules of your activity. You can also attach a graphic (a file or link) - it will be displayed in the thread list view.
