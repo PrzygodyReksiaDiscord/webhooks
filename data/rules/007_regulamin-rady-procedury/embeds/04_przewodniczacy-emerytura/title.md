@@ -1,1 +1,1 @@
-3.4. Utrata rangi Przewodniczącegos.
+3.4. Utrata rangi Przewodniczącego.
