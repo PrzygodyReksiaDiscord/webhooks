@@ -1,0 +1,2 @@
+**3.4.1.** W przypadku niedostępności Przewodniczącego Rady wybiera się jego zastępcę (p.o. przewodniczącego). Procedura wyboru zastępcy przebiega zgodnie z 3.2.5., z tą różnicą, że głosowanie przeprowadza jeden z członków Kadry.
+**3.4.2.** Jeśli Przewodniczący Rady utraci rangę Przewodniczącego lub w ogóle Radnego, wybierany jest nowy Przewodniczący. Głosowanie przeprowadzane jest na tych samych zasadach, co w punkcie 3.4.1.
