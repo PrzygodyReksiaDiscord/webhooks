@@ -1,2 +1,2 @@
-# :flag_pl: Server Council rules
+# :flag_us: Server Council rules
 ## 1. General provisions.
