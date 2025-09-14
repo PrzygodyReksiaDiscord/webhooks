@@ -1,1 +1,0 @@
-7. Dodatkowo Radę zasilają honorowi członkowie Rady. Nie mogą nimi zostać aktualni członkowie Rady, Kadry oraz Rady Mędrców. Ich funkcją jest doradzanie i rozstrzyganie głosowań w przypadku wątpliwości.
