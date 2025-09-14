@@ -1,9 +1,9 @@
-## :flag_pl: Spis treści:
-- [Regulamin serwera Reksio Discord](<https://discord.com/channels/822931925618524240/1330325042273456168/1330326158692057128>)
+## :flag_pl: Spis treści
+- [Regulamin serwera Reksio Discord](<https://discord.com/channels/822931925618524240/1330325042273456168/1330326160315383951>)
 - [Regulamin Rady Serwera](<https://discord.com/channels/822931925618524240/1330325042273456168/1330326164962807809>)
 - [Taryfikator kar](<https://discord.com/channels/822931925618524240/1330325042273456168/1330326170130055288>)
 - [Netykieta](<https://discord.com/channels/822931925618524240/1330325042273456168/1330326171249938514>)
-## :flag_us: Table of contents:
+## :flag_us: Table of contents
 - [Reksio Discord rules](<https://discord.com/channels/822931925618524240/1330325042273456168/1330326172931723335>)
 - [Server Council rules](<https://discord.com/channels/822931925618524240/1330325042273456168/1399858505304903812>)
 - [Tariff of punishments](<https://discord.com/channels/822931925618524240/1330325042273456168/1416180715430875166>)
