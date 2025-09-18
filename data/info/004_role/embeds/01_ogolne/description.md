@@ -17,4 +17,3 @@
 <@&1071088633366458470> - użytkownik pozbawiony możliwości zamieszczania wiadomości poza kanałami przeznaczonymi do dyskusji na tematy powiązane z serią gier o Reksiu
 <@&909049921477443584> - użytkownik pozbawiony możliwości zamieszczania wiadomości na kanale ⁠<#909039074059370527> i kanałach Rady Serwera
 <@&922812980981272616> - użytkownik pozbawiony możliwości zamieszczania wiadomości na kanale ⁠<#909046538091778048> (Jajo Śmierdzi)
-<@&967894266338770965> - użytkownik pozbawiony możliwości zamieszczania wiadomości na kanale ⁠<#909151292780339240>

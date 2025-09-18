@@ -10,6 +10,6 @@
 Wyjątkiem jest twórczość dozwolona niezależnie od tego czy zahacza o tematykę orientacji, religii, tożsamości czy w inny sposób powiązana jest ze światopoglądem. Administracja zastrzega sobie prawo do usuwania czy przenoszenia niektórych treści na ⁠⁠<#909046538091778048>, jeśli łamią zasadę dobrego smaku lub budzą wiele skrajnych emocji, szkodząc dobru całego serwera. 
 Dyskusje na kanałach głosowych mogą dotyczyć kontrowersji, o ile odpowiada to wszystkim rozmówcom. 
 
-6. Spamowanie wiadomościami jest dozwolone wyłącznie na kanale <#909046498166186036> (jednak z poszanowaniem przypiętych tam zasad), zaś komendami do obsługi botów na <#909046513085321237>.
+6. Spamowanie wiadomościami jest dozwolone wyłącznie w wątkach kanału <#1389709259708563556> oznaczonych tagiem **🧌 spam** (z poszanowaniem zasad poszczególnych wątków).
 
 7. Rozmawiamy wyłącznie na odpowiednich kanałach. Tak zwane off-topowanie nie jest zbyt uprzejme! Poza komendami związanymi z hazardem, zarezerwowanym dla <#909046513085321237>, można korzystać z botów na wszystkich kanałach, ale w umiarkowanych ilościach i w kontekście prowadzonej rozmowy.

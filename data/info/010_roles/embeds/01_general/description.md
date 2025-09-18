@@ -17,4 +17,3 @@
 <@&1071088633366458470> - user who lost access of writing outside of channels related to Reksio games
 <@&909049921477443584> - user who lost access to writing on <#909039074059370527> and channels dedicated to the Server Council
 <@&922812980981272616> - user who lost access to writing on <#909046538091778048> (jajo śmierdzi)
-<@&967894266338770965> - user who lost access to writing on <#909151292780339240>
