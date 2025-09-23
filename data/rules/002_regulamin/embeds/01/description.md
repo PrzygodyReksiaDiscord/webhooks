@@ -12,4 +12,4 @@ Dyskusje na kanałach głosowych mogą dotyczyć kontrowersji, o ile odpowiada t
 
 6. Spamowanie wiadomościami jest dozwolone wyłącznie w wątkach kanału <#1389709259708563556> oznaczonych tagiem **🧌 spam** (z poszanowaniem zasad poszczególnych wątków).
 
-7. Rozmawiamy wyłącznie na odpowiednich kanałach. Tak zwane off-topowanie nie jest zbyt uprzejme! Poza komendami związanymi z hazardem, zarezerwowanym dla <#909046513085321237>, można korzystać z botów na wszystkich kanałach, ale w umiarkowanych ilościach i w kontekście prowadzonej rozmowy.
+7. Rozmawiamy wyłącznie na odpowiednich kanałach. Tak zwane off-topowanie nie jest zbyt uprzejme! Poza komendami związanymi z hazardem, zarezerwowanymi dla <#1389709259708563556>, można korzystać z botów na wszystkich kanałach, ale w umiarkowanych ilościach i w kontekście prowadzonej rozmowy.
