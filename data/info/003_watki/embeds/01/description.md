@@ -18,6 +18,6 @@
 <#1361967186020929549> - dyskusje o polityce rumuńskiej (głównie w języku rumuńskim i angielskim) i wszelkie rumuńskojęzyczne rozmowy polityczne. Wymaga dostępu do <#909046538091778048> (jajo śmierdzi).
 ||<#1004866021108220005> - żarty, których nie przystoi postować nigdzie indziej, ale mieszczące się jeszcze w granicach regulaminu. Wymaga dostępu do <#909046538091778048> (jajo śmierdzi).||
 <#1416853443611590777> - wszelki spam (z wyjątkiem treści kontrowersyjnych).
-<#1416853651858657442> - miejsce do zamieszczania reklam niezwiązanych z handlem takich jak zrzutki internetowe, inne serwery lub strony.
+<#1416853651858657442> - miejsce do zamieszczania reklam niezwiązanych z handlem, takich jak zrzutki internetowe, inne serwery lub strony.
 <#1416854032349134969> - ankiety na różne tematy.
 <#1233693523811893349> - wstawianie i ocenianie cytatów w formie dialogów oraz wiadomości z innych reksiowych platform/serwerów (obowiązuje regulamin <#1230099437423038535>).
