@@ -15,5 +15,3 @@
   - **🏅 konkurs/competition** - zabawa mająca na celu wyłonienie zwycięzcy(-ów)
   - **🗳️ plebiscyt/bracket** - seria głosowań porównująca jakieś rzeczy (zazwyczaj w celu wybrania najlepszej)
   - **🎭 roleplay** - zabawa polegająca na odgrywaniu ról; obejmuje również tekstowe gry fabularne rozgrywane na niniejszym serwerze lub poza nim (a tu jedynie omawiane)
-5. Wątki niezgodne z regulaminem lub porzucone mogą zostać zarchiwizowane lub usunięte.
-6. Niestosowanie się do zasad obowiązujących na poszczególnych wątkach może być karane. Zasady danego wątku można znaleźć w jego przypięciach lub w jego pierwszej wiadomości.

@@ -15,5 +15,3 @@
 - **🏅 konkurs/competition** - an activity aimed at determining the winner(s)
 - **🗳️ plebiscyt/bracket** - a series of votes comparing certain things (usually to choose the best one)
 - **🎭 roleplay** - a game based on playing a role; includes text-based role-playing games played on this server or another (and only discussed here)
-5. Threads that violate the rules or remain abandoned may be archived or deleted. 
-6. Breaking the rules of individual threads may be punished. The rules are to be found among the thread's pinned messages or in its first message.
