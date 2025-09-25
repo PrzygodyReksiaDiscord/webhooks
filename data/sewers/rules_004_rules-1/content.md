@@ -9,9 +9,9 @@
 2. Before starting a new thread, check for existing similar ones.
 3. In your first message, explain the rules of your activity. You can also attach a graphic (a file or link) - it will be displayed in the thread list view.
 4. Add appropriate tags to your post:
-- **🧌 spam** - a space for mass posting
-- **🥳 zabawa/game** or **🎙️ zabawa vc/vc game** - a text or voice game based on the rules specified by its author
-- **🧩 łamigłówka/puzzle** - solving an ARG-style puzzle together
-- **🏅 konkurs/competition** - an activity aimed at determining the winner(s)
-- **🗳️ plebiscyt/bracket** - a series of votes comparing certain things (usually to choose the best one)
-- **🎭 roleplay** - a game based on playing a role; includes text-based role-playing games played on this server or another (and only discussed here)
+  - **🧌 spam** - a space for mass posting
+  - **🥳 zabawa/game** or **🎙️ zabawa vc/vc game** - a text or voice game based on the rules specified by its author
+  - **🧩 łamigłówka/puzzle** - solving an ARG-style puzzle together
+  - **🏅 konkurs/competition** - an activity aimed at determining the winner(s)
+  - **🗳️ plebiscyt/bracket** - a series of votes comparing certain things (usually to choose the best one)
+  - **🎭 roleplay** - a game based on playing a role; includes text-based role-playing games played on this server or another (and only discussed here)
