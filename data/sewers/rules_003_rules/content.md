@@ -10,10 +10,10 @@
 3. In your first message, explain the rules of your activity. You can also attach a graphic (a file or link) - it will be displayed in the thread list view.
 4. Add appropriate tags to your post:
 - **🧌 spam** - a space for mass posting
-- **🥳 zabawa/game** or **🎙️ zabawa vc/vc game** - a text or voice game based on the rules specified in the first message
+- **🥳 zabawa/game** or **🎙️ zabawa vc/vc game** - a text or voice game based on the rules specified by its author
 - **🧩 łamigłówka/puzzle** - solving an ARG-style puzzle together
 - **🏅 konkurs/competition** - an activity aimed at determining the winner(s)
 - **🗳️ plebiscyt/bracket** - a series of votes comparing certain things (usually to choose the best one)
 - **🎭 roleplay** - a game based on playing a role; includes text-based role-playing games played on this server or another (and only discussed here)
 5. Threads that violate the rules or remain abandoned may be archived or deleted. 
-6. Breaking the rules of individual threads (defined in their first message) may be punished.
+6. Breaking the rules of individual threads may be punished. The rules are to be found among the thread's pinned messages or in its first message.
