@@ -10,10 +10,10 @@
 3. W pierwszej wiadomości wyjaśnij zasady. Możesz dodatkowo załączyć grafikę (jako plik lub link) - wyświetli się ona w widoku listy wątków.
 4. Post opatrz odpowiednimi tagami: 
   - **🧌 spam** - przestrzeń do masowego wysyłania treści
-  - **🥳 zabawa/game** lub **🎙️ zabawa vc/ vc game** - tekstowa lub głosowa zabawa według zasad określonych w pierwszej wiadomości
+  - **🥳 zabawa/game** lub **🎙️ zabawa vc/ vc game** - tekstowa lub głosowa zabawa według zasad określonych przez autora
   - **🧩 łamigłówka/puzzle** - wspólne rozwiązywanie łamigłówki typu ARG
   - **🏅 konkurs/competition** - zabawa mająca na celu wyłonienie zwycięzcy(-ów)
   - **🗳️ plebiscyt/bracket** - seria głosowań porównująca jakieś rzeczy (zazwyczaj w celu wybrania najlepszej)
   - **🎭 roleplay** - zabawa polegająca na odgrywaniu ról; obejmuje również tekstowe gry fabularne rozgrywane na niniejszym serwerze lub poza nim (a tu jedynie omawiane)
 5. Wątki niezgodne z regulaminem lub porzucone mogą zostać zarchiwizowane lub usunięte.
-6. Niestosowanie się do zasad obowiązujących na poszczególnych wątkach (określonych ich pierwszą wiadomością) może być karane.
+6. Niestosowanie się do zasad obowiązujących na poszczególnych wątkach może być karane. Zasady danego wątku można znaleźć w jego przypięciach lub w jego pierwszej wiadomości.
