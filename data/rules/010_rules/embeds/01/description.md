@@ -10,6 +10,6 @@
 Creative work is an exception - regardless of whether it relates to orientation, religion, identity or other topics regarding worldview. The Administration reserves the right to move a post to <#909046538091778048> if it exceeds the limits of good taste or provokes diverse and strong reactions that pose a threat to the server's well-being. 
 Voice discussions can also touch upon controversial topics, but only if all disputants agree on it.
 
-6. Spamming with messages is allowed only on <#909046498166186036> (but respecting the rules pinned there), with bot commands on <#909046513085321237>.
+6. Spamming with messages is allowed only within **🧌 spam** threads of the <#1389709259708563556> channel (adhering to the rules of each thread).
 
-7. We only talk on the appropriate channels. The off-topic is not very polite! Except for gambling commands reserved for <#909046513085321237>, you can use bots on all channels, but in moderation and in the context of the conversation.
+7. We only talk on the appropriate channels. The off-topic is not very polite! Except for gambling commands reserved for <#1389709259708563556>, you can use bots on all channels, but in moderation and in the context of the conversation.

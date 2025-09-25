@@ -1,6 +1,6 @@
-8. Advertisement posting does not require administrator permission. It is only necessary that the advertisement does not contradict our rules. Artistic activity announcements shall be posted on art-related channels and threads, and all the others - on <#909046498166186036>.
+8. Advertisement posting does not require administrator permission. It is only necessary for the advertisement to not contradict our rules. Artistic commissions shall be offered on art-related channels and threads, buying/selling Aidem Media games should be done in <#1415121141885829212>, and all the other ads should be posted within an appropriate thread on <#1389709259708563556>.
 
-9. All games and RPGs can be organized only with the permition of the administration.
+9. Games, contests and RPGs can be organized on the <#1389709259708563556> channel according to its rules. Listed activities may be also held outside <#1389709259708563556> with permission from the Staff.
 
 10. By posting your own Rex arts or creating Rex emotes for this server, you are consenting to copying and distributing them for use by the fandom.
 
