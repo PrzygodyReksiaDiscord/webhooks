@@ -18,6 +18,6 @@
 <#1361967186020929549> - conversations about Romanian politics (mostly in Romanian and English) and other political discussions in Romanian. Requires access to <#909046538091778048> (egg-star).
 ||<#1004866021108220005> - humor too gross for any other channel, but still within the rules. Requires access to <#909046538091778048> (jajo śmierdzi).||
 <#1416853443611590777> - any kind of spam (except for controversial content).
-<#1416853651858657442> (obtrusive ad) - posting advertisements not related to trading such as charitable collections, other servers or sites.
+<#1416853651858657442> (obtrusive ad) - posting advertisements not related to trading such as fundraisers, other servers or sites.
 <#1416854032349134969> (surveys) - surveys on various topics.
 <#1233693523811893349> (Fandom Quotes - suggestions) - posting and rating quotes in the form of dialogues and messages from other Reksio platforms/servers (the rules from <#1230099437423038535> apply).
