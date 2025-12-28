@@ -1,1 +1,1 @@
-(obecnie nie wyznaczono)
+<@314810826987143169>
