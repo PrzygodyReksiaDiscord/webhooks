@@ -4,7 +4,7 @@
 
 10. By posting your own Rex arts or creating Rex emotes for this server, you are consenting to copying and distributing them for use by the fandom.
 
-11. Users who break the rules may receive a warning, a kick or Timeout/the <@&909039818728673360> role that makes them unable to write for a period specified by the administration. A milder form of muting is <@&1071088633366458470> (quarantine), which covers most channels not directly related to the server's topic.
+11. Users who break the rules may be warned, kicked, or muted (using Timeout / the <@&909039818728673360> role) which makes them unable to write for a period specified by the administration. Muted users can apply for mediation taking place in the archived channel <#914203503218548757> (dungeons). A milder form of muting is <@&1071088633366458470> (quarantine), which covers most channels not directly related to the server's topic.
 
 12. More bothersome behavior may result in a ban, the reasons and duration of which the user (if contact with him does not pose a threat to the server) and the community will be notified. Bans and mutes are imposed in accordance with the tariff available [below](<https://discord.com/channels/822931925618524240/1180897656663453840/1180906811881160716>). Transferring content and messages from banned users to the server is only permitted with the consent of the administration. 
 

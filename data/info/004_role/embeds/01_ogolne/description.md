@@ -12,8 +12,7 @@
 <@&1274834829606649896> - zarządca <#909046481795825685>. Rola jest wyróżnieniem dla najaktywniejszych użytkowników tego kanału
 <@&909077054459346945> - zarządca <#909046594421293076>. Rola jest wyróżnieniem dla najaktywniejszych użytkowników tego kanału. Pozwala również na zarządzanie kanałami głosowymi
 <@&977599336957489172> - zarządca wydarzeń, może pisać na <#1267124282656428173>
-<@&909039818728673360> - użytkownik pozbawiony możliwości zamieszczania wiadomości poza wyznaczonym dla niego kanałem ⁠<#914203503218548757> (lochy)
-<@&914203758072852501> - użytkownik pozbawiony możliwości zamieszczania wiadomości również na kanale ⁠lochy [Rola dla wybitnych]
+<@&909039818728673360> - wyciszony użytkownik
 <@&1071088633366458470> - użytkownik pozbawiony możliwości zamieszczania wiadomości poza kanałami przeznaczonymi do dyskusji na tematy powiązane z serią gier o Reksiu
 <@&909049921477443584> - użytkownik pozbawiony możliwości zamieszczania wiadomości na kanale ⁠<#909039074059370527> i kanałach Rady Serwera
 <@&922812980981272616> - użytkownik pozbawiony możliwości zamieszczania wiadomości na kanale ⁠<#909046538091778048> (Jajo Śmierdzi)
