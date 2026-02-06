@@ -12,8 +12,7 @@
 <@&1274834829606649896> - manages <#909046481795825685>. The role is an award for the most active users of this channel
 <@&909077054459346945> - manages <#909046594421293076>. This role is an award for the most active users of this channel. Also, manages voice channels
 <@&977599336957489172> - manages events and can write on <#1267124282656428173>
-<@&909039818728673360> - user who lost access to writing outside of <#914203503218548757>
-<@&914203758072852501> - user who lost access to writing in <#914203503218548757> (lochy) as well
+<@&909039818728673360> - muted user
 <@&1071088633366458470> - user who lost access of writing outside of channels related to Reksio games
 <@&909049921477443584> - user who lost access to writing on <#909039074059370527> and channels dedicated to the Server Council
 <@&922812980981272616> - user who lost access to writing on <#909046538091778048> (jajo śmierdzi)

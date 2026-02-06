@@ -4,7 +4,7 @@
 
 10. Udostępniając na serwerze reksiową twórczość swojego autorstwa lub tworząc reksiowe emotki na jego potrzeby, wyrażasz zgodę na kopiowanie i rozpowszechnianie ich przez innych użytkowników.
 
-11. Użytkownicy łamiący regulamin mogą dostać ostrzeżenie, kicka lub przerwę/rolę <@&909039818728673360>, przez co nie będą mieli możliwości udzielania się przez czas określony przez administrację. Łagodniejszą formą wyciszenia jest <@&1071088633366458470>, obejmująca większość kanałów niezwiązanych bezpośrednio z tematyką serwera.
+11. Użytkownicy łamiący regulamin mogą dostać ostrzeżenie, kicka lub wyciszenie (przerwę / rolę <@&909039818728673360>), przez co nie będą mieli możliwości udzielania się przez czas określony przez administrację. Wyciszeni użytkownicy mogą wnioskować o mediację odbywającą się na zarchiwizowanym kanale <#914203503218548757>. Łagodniejszą formą wyciszenia jest <@&1071088633366458470>, obejmująca większość kanałów niezwiązanych bezpośrednio z tematyką serwera.
 
 12. Bardziej uciążliwe zachowanie może zakończyć się banem, o którego powodach i długości użytkownik (jeśli kontakt z nim nie stanowi zagrożenia dla serwera) oraz społeczność zostaną poinformowani. Bany i wyciszenia przyznawane są zgodnie z taryfikatorem dostępnym [poniżej](<https://discord.com/channels/822931925618524240/1180897656663453840/1180906803006033970>). Przekazywanie na serwer treści i wiadomości od zbanowanych użytkowników może odbywać się wyłącznie za zgodą administracji. 
 
