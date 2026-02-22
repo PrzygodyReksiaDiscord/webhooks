@@ -1,9 +1,10 @@
-## Regulamin <#909041207341113344>
+## 🇵🇱 ⁠Regulamin ⁠<#909041207341113344>! 
 
-1. W skrócie: co to jest reksiowa twórczość oraz które jej przejawy należy postować na <#909047108718428231>, <#1267124105308536862> i <#1267124282656428173>.
-2. Informacja o pisaniu w wątkach.
-3. Informacja o tym, że wątki tworzy bot, a nieodpowiednie wiadomości są kasowane i postowane na koszu. Informacja, że w razie problemów z botem nad sytuacją panować będzie kadra.
-4. Informacja o ogłoszeniach oraz o Mecenasie, którego w wątkach ogłoszeniowych pingować będzie kadra.
-5. Informacja o szablonach, same szablony oraz linki do nich.
+1. Kanał poświęcony jest wszelkiej twórczości (plastycznej, muzycznej, literackiej i innej) związanej z Przygodami Reksia, innymi grami Aidem Media, postacią Reksia i fandomem. Wyjątek stanowią większe projekty zakładające interaktywność lub pracę zespołową, które powinny być rozwijane na <#1267124105308536862>. Jeśli jesteś youtuberem lub streamerem możesz poprosić administrację o odpowiednią rolę, aby wstawiać informacje o premierach swoich filmów powiązanych z Reksiem na <#1267124282656428173>. 
+2. Jeśli postujesz cudzą twórczość, koniecznie potwierdź, że nie jest twoja i wskaż autora, o ile to możliwe. Przed wstawieniem upewnij się, że dane dzieło nie było jeszcze postowane na kanale. 
+3. Bezpośrednio na kanale można wstawiać tylko twórczość lub ogłoszenia na jej temat. Komentarze do twórczości lub ogłoszeń powinny być zamieszczane w wątkach utworzonych pod nimi. 
+4. Za tworzenie wątków na kanale odpowiada bot <@204255221017214977>. Tworzy je automatycznie pod każdą wiadomością zawierającą załącznik lub link. Pozostałe wiadomości usuwa i umieszcza na 24h w <#1469388904514977997>. Usuniętą wiadomość można uzupełnić lub przenieść na odpowiedni kanał/wątek. 
+5. Każdy może zapostować ogłoszenie na temat twórczości. To odpowiedni sposób postowania ofert sprzedaży rękodzieł bądź comishy powiązanych z Reksiem. Ogłosić można też konkurs lub inne wydarzenie związane z twórczością (które może się odbywać w wątku pod ogłoszeniem lub w <#1389709259708563556>). Ogłoszenia mogą dotyczyć również updatów do projektów na <#1267124105308536862>. W wątkach utworzonych pod ogłoszeniami Kadra lub Kot da Vinci (opiekun kanału) pinguje rolę Mecenasa, którą każdy może wybrać w <#909039228904689675>, aby żadne ogłoszenia o twórczości nie ominęły użytkownika. 
+6. W celu postowania ogłoszeń lub twórczości literackiej na kanale (w taki sposób, żeby bot jej nie usunął) można załączyć do postu dowolną pasującą do niego grafikę lub użyć poniższych szablonów: opowiadania (link1), ogłoszenia (link2).
 
--# Ostatnia aktualizacja: 2024-11-11 22:05
+-# Ostatnia aktualizacja: 2026-02-22 21:43
