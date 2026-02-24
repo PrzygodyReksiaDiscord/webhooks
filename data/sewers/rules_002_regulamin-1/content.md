@@ -15,3 +15,4 @@
   - **🏅 konkurs/competition** - zabawa mająca na celu wyłonienie zwycięzcy(-ów)
   - **🗳️ plebiscyt/bracket** - seria głosowań porównująca jakieś rzeczy (zazwyczaj w celu wybrania najlepszej)
   - **🎭 roleplay** - zabawa polegająca na odgrywaniu ról; obejmuje również tekstowe gry fabularne rozgrywane na niniejszym serwerze lub poza nim (a tu jedynie omawiane)
+  - **📢 event** - zabawa ograniczona czasowo, niebędąca sama w sobie konkursem
