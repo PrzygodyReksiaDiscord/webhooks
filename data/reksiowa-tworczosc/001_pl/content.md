@@ -1,4 +1,4 @@
-## 🇵🇱 ⁠Regulamin ⁠<#909041207341113344>! 
+## :flag_pl: ⁠Regulamin ⁠<#909041207341113344>
 
 1. Kanał poświęcony jest wszelkiej twórczości (plastycznej, muzycznej, literackiej i innej) związanej z Przygodami Reksia, innymi grami Aidem Media, postacią Reksia i fandomem. Wyjątek stanowią większe projekty zakładające interaktywność lub pracę zespołową, które powinny być rozwijane na <#1267124105308536862>. Jeśli jesteś youtuberem lub streamerem możesz poprosić administrację o odpowiednią rolę, aby wstawiać informacje o premierach swoich filmów powiązanych z Reksiem na <#1267124282656428173>. 
 2. Jeśli postujesz cudzą twórczość, koniecznie zaznacz, że nie jest twoja i, o ile to możliwe, wskaż autora. Przed wstawieniem upewnij się, że dane dzieło nie było jeszcze postowane na kanale. 

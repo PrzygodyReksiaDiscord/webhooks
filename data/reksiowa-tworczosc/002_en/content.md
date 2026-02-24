@@ -1,4 +1,4 @@
-## Rules of <#909041207341113344>
+## :flag_us: Rules of <#909041207341113344>
 
 1. The channel is dedicated to all forms of art (visual arts, music, literature and other) related to The Adventures of Reksio, other games by Aidem Media, standalone Reksio character and our fandom. However, bigger projects (either interactive or done in a team) should be held in <#1267124105308536862>. If you're a youtuber or a streamer, you can ask the administration for the role allowing to notify users about your Reksio-related premieres on <#1267124282656428173>. 
 2. When posting someone else's piece of art, make sure to let other know that it doesn't belong to you and, if possible, credit the original author. Before sending a message, check if it hasn't been posted before. 

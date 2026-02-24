@@ -8,7 +8,6 @@
 <#1399338757534257284> - announcement about free games posted by a bot <@672822334641537041>.
 <#1399014172523630602> (Non-Reksio Speedruns) - speedruns of games not belonging to the Adventures of Reksio series.
 <#909056082897436732> (Kaermorhein) - conversations about "The Witcher" game series.
-<#1379924242979750049> (Reksio Art Discussions) - conversations about Reksio-related art.
 <#945225687617388544> (non-reksio-music) - musical works not related to Reksio (also, discussing music tastes).
 <#987630870045270016> (AI Fun) - generating texts, images, etc. using artificial intelligence.
 <#940904445343060028> (Fandom memes) - memes connected with fandom and its members but not directly with the Adventures of Reksio series.

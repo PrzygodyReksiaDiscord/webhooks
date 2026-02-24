@@ -7,6 +7,7 @@
 <@&972961071444922378> - non-Polish-speaking member of the Council, manages channels for discussions in foreign languages (<#909041188810661898> & <#1173378559037943958>) and can write on <#1267124282656428173>
 <@&1072092954107326514> - merited, former member of the council
 <@&833793553032413266> - person who financially supports server, awarded with SPECIAL colour and access to the Server Council channel
+<@&1471120358244356259> - manages <#909041207341113344>. This role is an award for the most active users of this channel
 <@&909049889055445002> - manages <#909046389227536426>. The role is an award for the most active users of this channel. Also, manages <#1267124105308536862>
 <@&909049864208392192> - manages <#909046426535862282>. This role is an award for the most active users of this channel
 <@&1274834829606649896> - manages <#909046481795825685>. The role is an award for the most active users of this channel

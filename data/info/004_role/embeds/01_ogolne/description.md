@@ -7,6 +7,7 @@
 <@&972961071444922378> - niepolskojęzyczny członek Rady Serwera, zarządca kanałów obcojęzycznych (<#909041188810661898> i <#1173378559037943958>), może pisać na <#1267124282656428173>
 <@&1072092954107326514> - zasłużony były członek Rady Serwera
 <@&833793553032413266> - osoba, która łoży na utrzymanie serwera, odznaczona WYJĄTKOWYM kolorkiem i mająca dostęp do kanału Rady Serwera
+<@&1471120358244356259> - zarządca <#909041207341113344>. Rola jest wyróżnieniem dla najaktywniejszych użytkowników tego kanału
 <@&909049889055445002> - zarządca <#909046389227536426>. Rola jest wyróżnieniem dla najaktywniejszych użytkowników tego kanału. Pozwala również na zarządzanie <#1267124105308536862>
 <@&909049864208392192> - zarządca <#909046426535862282>. Rola jest wyróżnieniem dla najaktywniejszych użytkowników tego kanału
 <@&1274834829606649896> - zarządca <#909046481795825685>. Rola jest wyróżnieniem dla najaktywniejszych użytkowników tego kanału
