@@ -1,1 +1,1 @@
-Przygody Reksia Archiwum⠀⠀⠀⠀⠀
+Zagraj w Reksia         ⠀⠀⠀⠀⠀

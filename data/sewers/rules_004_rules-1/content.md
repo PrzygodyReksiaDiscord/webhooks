@@ -15,3 +15,4 @@
   - **🏅 konkurs/competition** - an activity aimed at determining the winner(s)
   - **🗳️ plebiscyt/bracket** - a series of votes comparing certain things (usually to choose the best one)
   - **🎭 roleplay** - a game based on playing a role; includes text-based role-playing games played on this server or another (and only discussed here)
+  - **📢 event** - time-limited activity not being a competition
