@@ -1,6 +1,6 @@
 5. Every user can post an art-related announcement. It's the correct way of offering your Reksio-related artistic commissions or handicraft. You can also announce a competition or another event related to arts (which may take place in a thread below the message or in <#1389709259708563556>). Updates of projects from <#1267124105308536862> can be announced as well. Inside threads created below announcements, <@&1414295576878649374> (Server Staff) or <@&1471120358244356259> (Da Vinci cat) mentions the <@&1470794783168663695> (Arts Patron) role (self-assigned in <#909039228904689675>).
 6. Messages with announcements or literary works must contain an attachment or a link (for the bot not to remove them). For literary works, you can simply attach the work as a text file. For both cases, you can append (a link or a file with) your own promo art or one of premade banners by <@428544684076433409>:
-   - short story <https://raw.githubusercontent.com/PrzygodyReksiaDiscord/webhooks/main/data/reksiowa-tworczosc/002_en/attachments/02_Opowiadanie_by_swerszcz.png>
-   - announcement <https://raw.githubusercontent.com/PrzygodyReksiaDiscord/webhooks/main/data/reksiowa-tworczosc/002_en/attachments/01_Ogloszenie_by_swerszcz.png>
+   - short story https://raw.githubusercontent.com/PrzygodyReksiaDiscord/webhooks/main/images/Opowiadanie_by_swerszcz.png
+   - announcement https://raw.githubusercontent.com/PrzygodyReksiaDiscord/webhooks/main/images/Ogloszenie_by_swerszcz.png
 
 -# Last update: 2026-02-26 23:35

@@ -1,6 +1,6 @@
 5. Każdy może zapostować ogłoszenie na temat twórczości. To odpowiedni sposób postowania ofert sprzedaży rękodzieł bądź komiszy powiązanych z Reksiem. Ogłosić można też konkurs lub inne wydarzenie związane z twórczością (które może się odbywać w wątku pod ogłoszeniem lub w <#1389709259708563556>). Ogłoszenia mogą dotyczyć również aktualizacji projektów na <#1267124105308536862>. W wątkach utworzonych pod ogłoszeniami <@&1414295576878649374> lub <@&1471120358244356259> (opiekun kanału) pinguje rolę <@&1470794783168663695>, którą każdy może wybrać w <#909039228904689675>, aby żadne ogłoszenia o twórczości go nie ominęły.
 6. Postowanie ogłoszeń lub twórczości literackiej wymaga dołączenia załącznika/linku (by bot nie usunął wiadomości). Rozwiązaniem specyficznym dla twórczości literackiej jest dołączenie jej jako pliku tekstowego. Rozwiązaniem pasującym do obu przypadków jest natomiast dołączenie (w postaci linku lub pliku) własnej grafiki promocyjnej albo jednego z poniższych banerów autorstwa <@428544684076433409>:
-   - opowiadanie <https://raw.githubusercontent.com/PrzygodyReksiaDiscord/webhooks/main/data/reksiowa-tworczosc/001_pl/attachments/02_Opowiadanie_by_swerszcz.png>
-   - ogłoszenie <https://raw.githubusercontent.com/PrzygodyReksiaDiscord/webhooks/main/data/reksiowa-tworczosc/001_pl/attachments/01_Ogloszenie_by_swerszcz.png>
+   - opowiadanie https://raw.githubusercontent.com/PrzygodyReksiaDiscord/webhooks/main/images/Opowiadanie_by_swerszcz.png
+   - ogłoszenie https://raw.githubusercontent.com/PrzygodyReksiaDiscord/webhooks/main/images/Ogloszenie_by_swerszcz.png
 
 -# Ostatnia aktualizacja: 2026-02-26 23:35
