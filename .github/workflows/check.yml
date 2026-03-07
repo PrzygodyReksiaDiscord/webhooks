@@ -1,0 +1,25 @@
+name: Update webhook messages
+
+on:
+  pull_request:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Pobranie repozytorium
+      uses: actions/checkout@v4
+    - name: Instalacja Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: 22.x
+        cache: 'npm'
+    - name: Instalacja bibliotek
+      run: npm ci
+    - name: Uruchomienie skryptu
+      run: node src/check.js
