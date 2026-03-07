@@ -1,5 +1,5 @@
 import { EmbedBuilder, MessageFlags } from 'discord.js';
-import { readdir, readFile } from 'node:fs/promises';
+import { readdir, readFile, appendFile } from 'node:fs/promises';
 
 const DATA_DIR = './data';
 
@@ -136,7 +136,7 @@ for (const channelDir of channelDirs) {
 
         const logError = errorMessage => {
             console.error('  ' + errorMessage);
-            errors.push(new Error(`[${messageDir}] ${errorMessage}`));
+            errors.push({ messageDir, errorMessage });
         };
 
         const contentLength = message.content.length;
@@ -219,6 +219,12 @@ for (const channelDir of channelDirs) {
     }
 }
 
+await appendFile(
+    process.env.GITHUB_STEP_SUMMARY,
+    '### Errors\n\n' + errors.map(e => `- [${e.messageDir}](https://github.com/PrzygodyReksiaDiscord/webhooks/blob/${process.env.GITHUB_SHA}/${e.messageDir}): ${e.errorMessage}`).join('\n'),
+    { encoding: 'utf8' }
+);
+
 if (errors.length > 0) {
-    throw errors;
+    throw errors.map(e => new Error(`[${e.messageDir}] ${e.errorMessage}`));
 }
