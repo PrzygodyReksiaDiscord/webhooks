@@ -1,4 +1,4 @@
-name: Update webhook messages
+name: Check messages
 
 on:
   push:
@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  run:
+  publish:
     runs-on: ubuntu-latest
     steps:
     - name: Uwierzytelnienie
