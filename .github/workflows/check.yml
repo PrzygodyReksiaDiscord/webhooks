@@ -23,3 +23,5 @@ jobs:
       run: npm ci
     - name: Uruchomienie skryptu
       run: node src/check.js
+      env:
+        BRANCH_NAME: ${{ github.head_ref || github.ref_name }} 
