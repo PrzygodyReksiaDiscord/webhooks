@@ -1,4 +1,4 @@
-name: Update webhook messages
+name: Check messages
 
 on:
   pull_request:
