@@ -221,7 +221,9 @@ for (const channelDir of channelDirs) {
 
 await appendFile(
     process.env.GITHUB_STEP_SUMMARY,
-    '### Errors\n\n' + errors.map(e => `- [${e.messageDir}](https://github.com/PrzygodyReksiaDiscord/webhooks/blob/${process.env.GITHUB_SHA}/${e.messageDir}): ${e.errorMessage}`).join('\n'),
+    errors.length > 0
+        ? '### Errors\n\n' + errors.map(e => `- [${e.messageDir}](https://github.com/PrzygodyReksiaDiscord/webhooks/blob/${process.env.GITHUB_SHA}/${e.messageDir}): ${e.errorMessage}`).join('\n')
+        : '### No errors',
     { encoding: 'utf8' }
 );
 
