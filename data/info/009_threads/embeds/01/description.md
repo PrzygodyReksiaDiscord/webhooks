@@ -12,7 +12,7 @@
 <#1399340533444513844> - Conversations on games made by Nintendo.
 <#1399340389055332402> - Thread for conversations on games made by Sega.
 <#909056082897436732> (Kaermorhein) - conversations about "The Witcher" game series.
-<#909132986996371536> (Genchick Impact) - conversations about game "Genshin Impact".
+<#909132986996371536> (Genchick Impact) - conversations about gacha games.
 <#945225687617388544> (non-reksio-music) - musical works not related to Reksio (also, discussing music tastes).
 <#987630870045270016> (AI Fun) - generating texts, images, etc. using artificial intelligence.
 <#940904445343060028> (Fandom memes) - memes connected with fandom and its members but not directly with the Adventures of Reksio series.
