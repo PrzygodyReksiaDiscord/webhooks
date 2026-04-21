@@ -16,6 +16,4 @@
   - ma min. 1 poziom aktywności i co najmniej miesięczny staż na serwerze
     LUB
   - ma min. 5 poziom aktywności serwerowej niezależnie od stażu
-- **c)** __niekaralności__: przez ostatni rok odbywał karę w wysokości maksymalnie:
-  - 1 bana
-  - 5 wyciszeń
+- **c)** __niekaralności__: przez ostatnie pół roku odbywał ogólnoserwerowe kary w łącznej wysokości maksymalnie miesiąca (w tym maks. 2 tygodnie bana)
