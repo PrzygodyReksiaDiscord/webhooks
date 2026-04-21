@@ -3,7 +3,7 @@
 <#1415121141885829212> (CDs for sale) - buying and selling Aidem Media games.
 <#1178965171587272724> (Aidem Media games) - conversations about Aidem Media games aside from "The Adventures of Reksio" series.
 <#1399122746923028480> (Square Wheels - Automotive Thread) - conversations about the automotive.
-<#1418170210107789373> - sharing photos of our house pets.
+<#1418170210107789373> (Catts and Company)- sharing photos of our house pets.
 <#1389650182462771321> (movie club) - arranging virtual watch parties.
 <#1378388276800524371> (🌾rice-underworld🍚) - Japanese animation talks.
 <#1399337579299737601> (The Fellowship of the Ring) - arranging to play games together.
