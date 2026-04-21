@@ -4,7 +4,7 @@
 - **a)** zgłaszanie Kadrze poprzez wiadomości prywatne użytkowników łamiących regulamin (kanały Rady nie służą do rozpatrywania takich spraw)
 - **b)** proponowanie reform taryfikatora kar czy innych dokumentów i procedur
 
-**1.3.** W skład Rady wchodzi __11 użytkowników__, spośród których jeden pełni rolę Przewodniczącego Rady (<@&1173366165121286286>).
+**1.3.** W skład Rady wchodzi maksymalnie __11 użytkowników__, spośród których jeden pełni rolę Przewodniczącego Rady (<@&1173366165121286286>).
 
 **1.4.** Do obowiązków Przewodniczącego należy organizowanie oraz nadzorowanie pracy Rady. Mile widziana jest również pomoc w nagłaśnianiu i przygotowaniu różnych projektów (np. poprzez pisanie ogłoszeń czy tworzenie wydarzeń).
 
@@ -16,6 +16,4 @@
   - ma min. 1 poziom aktywności i co najmniej miesięczny staż na serwerze
     LUB
   - ma min. 5 poziom aktywności serwerowej niezależnie od stażu
-- **c)** __niekaralności__: przez ostatni rok odbywał karę w wysokości maksymalnie:
-  - 1 bana
-  - 5 wyciszeń
+- **c)** __niekaralności__: przez ostatnie pół roku odbywał ogólnoserwerowe kary w łącznej wysokości maksymalnie miesiąca (w tym maks. 2 tygodnie bana)
