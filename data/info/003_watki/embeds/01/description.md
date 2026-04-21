@@ -2,12 +2,17 @@
 <#924724434697351238> - dzielenie się zdjęciami, skanami i opisami posiadanych gier AM.
 <#1415121141885829212> - oferty kupna i sprzedaży płyt z grami Aidem Media.
 <#1178965171587272724> - rozmowy o grach Aidem Media spoza serii "Przygody Reksia".
+<#1399122746923028480> - rozmowy na temat motoryzacji.
+<#1418170210107789373> - dzielenie się zdjęciami zwierząt domowych.
 <#1389650182462771321> - umawianie się na wspólne oglądanie filmów.
 <#1378388276800524371> - rozmowy o japońskich animacjach.
 <#1399337579299737601> - umawianie się na wspólną grę.
 <#1399338757534257284> - wątek dla łowców promocji od bota <@672822334641537041>. 
 <#1399014172523630602> - speedrunowanie gier nienależących do serii "Przygody Reksia".
+<#1399340533444513844> - rozmowy o grach wydanych przez Nintendo.
+<#1399340389055332402> - wątek do rozmów wydanych przez Segę.
 <#909056082897436732> - rozmowy o serii gier "Wiedźmin".
+<#909132986996371536> - rozmowy o grze "Genshin Impact".
 <#945225687617388544> - twórczość muzyczna (plus polecajki).
 <#987630870045270016> - generowanie tekstów, obrazów itp. z użyciem sztucznej inteligencji.
 <#940904445343060028> - memy związane z fandomem i jego członkami, ale nie bezpośrednio z Przygodami Reksia.
