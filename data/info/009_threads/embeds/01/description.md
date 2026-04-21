@@ -2,12 +2,17 @@
 <#924724434697351238> (Collections) - sharing photos, scans and descriptions of your AM games.
 <#1415121141885829212> (CDs for sale) - buying and selling Aidem Media games.
 <#1178965171587272724> (Aidem Media games) - conversations about Aidem Media games aside from "The Adventures of Reksio" series.
+<#1399122746923028480> (Square Wheels - Automotive Thread) - conversations about the automotive.
+<#1418170210107789373> - sharing photos of our house pets.
 <#1389650182462771321> (movie club) - arranging virtual watch parties.
 <#1378388276800524371> (🌾rice-underworld🍚) - Japanese animation talks.
 <#1399337579299737601> (The Fellowship of the Ring) - arranging to play games together.
 <#1399338757534257284> - announcement about free games posted by a bot <@672822334641537041>.
 <#1399014172523630602> (Non-Reksio Speedruns) - speedruns of games not belonging to the Adventures of Reksio series.
+<#1399340533444513844> - Conversations on games made by Nintendo.
+<#1399340389055332402> - Thread for conversations on games made by Sega.
 <#909056082897436732> (Kaermorhein) - conversations about "The Witcher" game series.
+<#909132986996371536> (Genchick Impact) - conversations about game "Genshin Impact".
 <#945225687617388544> (non-reksio-music) - musical works not related to Reksio (also, discussing music tastes).
 <#987630870045270016> (AI Fun) - generating texts, images, etc. using artificial intelligence.
 <#940904445343060028> (Fandom memes) - memes connected with fandom and its members but not directly with the Adventures of Reksio series.
