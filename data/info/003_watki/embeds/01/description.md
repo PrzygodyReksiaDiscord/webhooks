@@ -12,7 +12,7 @@
 <#1399340533444513844> - rozmowy o grach wydanych przez Nintendo.
 <#1399340389055332402> - wątek do rozmów wydanych przez Segę.
 <#909056082897436732> - rozmowy o serii gier "Wiedźmin".
-<#909132986996371536> - rozmowy o grze "Genshin Impact".
+<#909132986996371536> - rozmowy o grach gacha.
 <#945225687617388544> - twórczość muzyczna (plus polecajki).
 <#987630870045270016> - generowanie tekstów, obrazów itp. z użyciem sztucznej inteligencji.
 <#940904445343060028> - memy związane z fandomem i jego członkami, ale nie bezpośrednio z Przygodami Reksia.
