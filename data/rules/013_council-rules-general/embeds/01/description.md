@@ -8,7 +8,7 @@
 
 **1.4.** The Chairperson is responsible for organizing and supervising the work of the Council. Assistance in publicizing and preparing various projects (e.g. by writing announcements or creating events) is also welcome.
 
-**1.5.** The Council's term lasts __three months__, and its members are elected by public vote.
+**1.5.** The Council's term lasts __six months__, and its members are elected by public vote.
 
 **1.6.** Anyone who meets the following criteria can become a Councilor (and a candidate for Councilor):
 - **a)** __age__: at least 16 years old
