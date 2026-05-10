@@ -8,7 +8,7 @@
 
 **1.4.** Do obowiązków Przewodniczącego należy organizowanie oraz nadzorowanie pracy Rady. Mile widziana jest również pomoc w nagłaśnianiu i przygotowaniu różnych projektów (np. poprzez pisanie ogłoszeń czy tworzenie wydarzeń).
 
-**1.5.** Kadencja Rady trwa __trzy miesiące__, a jej członkowie wybierani są na drodze publicznego głosowania.
+**1.5.** Kadencja Rady trwa __sześć miesięcy__, a jej członkowie wybierani są na drodze publicznego głosowania.
 
 **1.6.** Radnym (i kandydatem na Radnego) może zostać każdy, kto spełnia następujące kryteria:
 - **a)** __wiekowe__: ukończył 16 r.ż.
