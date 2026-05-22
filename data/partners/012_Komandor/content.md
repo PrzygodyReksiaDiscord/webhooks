@@ -1,0 +1,3 @@
+:flag_pl: **Komandor** to gra wyścigowa na motywach świata Przygód Reksia! Dołącz do społeczności, śledź nowinki o projekcie i twórz razem z innymi świat Komandora poprzez dyskusje, fanarty i własne pomysły. **Zapraszamy zarówno na Discord jak i stronę internetową.** Najważniejsze ogłoszenia trafiają również na kanał <#1441926095065841755>.
+:flag_us: **Komandor** is a racing game based on the motifs of the Adventures of Reksio universe! Join the community, follow project updates, and help shape the world of Komandor through discussions, fan art, and your own ideas. **You are welcome both on Discord server and website.** The most important announcements are also posted in <#1441926095065841755>.
+https://discord.gg/cx6d29f5Qy
