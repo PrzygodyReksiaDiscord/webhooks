@@ -1,1 +1,0 @@
-# Reksiowe społeczności / Reksio communities
