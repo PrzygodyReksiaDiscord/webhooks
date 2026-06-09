@@ -1,0 +1,3 @@
+🇵🇱 Oaza Czytelników to serwer dla miłośników literatury, nieważne czy to książek, komiksów czy mang. Jest to miejsce, gdzie możecie rozwijać i dzielić się swoją pasją do czytania oraz dyskutować na temat przeczytanej twórczości w przyjaznym gronie ludzi zainteresowanych czytelnictwem.
+🇺🇸 Readers' Oasis is a server for literature enthusiasts, whether they enjoy books, comics, or manga. It is a place where you can develop and share your passion for reading, as well as discuss what you have read in a friendly community of people interested in literature and reading.
+https://discord.gg/VyYRyERB8g
