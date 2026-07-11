@@ -4,3 +4,6 @@ Discord: https://discord.gg/K4tMTJYhDt
 Strona internetowa: <https://www.blueblur.pl/>
 YouTube: <https://www.youtube.com/c/SonicznyKanał>
 Twitter: <https://twitter.com/BlueblurC>
+BlueSky: <https://bsky.app/profile/blueblur.pl>
+Facebook: <https://www.facebook.com/BlueBlurCenter>
+Tumblr: <https://blueblurcenter.tumblr.com/>
