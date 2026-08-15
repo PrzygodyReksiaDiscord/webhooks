@@ -5,3 +5,4 @@ Najważniejsze informacje związane z serwerem oraz przydatne linki dotyczące g
 - Linki do różnych ośrodków reksiowej społeczności oraz zaprzyjaźnionych serwerów: <#1180897879557152809>
 - Witanie nowych i żegnanie wychodzących użytkowników: <#909039758402019358>
 - Przedstawianie się: <#1398992297705603222>
+- Kanał pułapka dający automatycznego bana po napisaniu na nim: <#1525426940327100426>
