@@ -3,6 +3,6 @@ Najważniejsze informacje związane z serwerem oraz przydatne linki dotyczące g
 - Przewodnik po serwerze: <#1180897754327826503>
 - FAQ: <#1230633174011478106>
 - Linki do różnych ośrodków reksiowej społeczności oraz zaprzyjaźnionych serwerów: <#1180897879557152809>
+- Kanał pułapka dający automatycznego bana po napisaniu na nim: <#1525426940327100426>
 - Witanie nowych i żegnanie wychodzących użytkowników: <#909039758402019358>
 - Przedstawianie się: <#1398992297705603222>
-- Kanał pułapka dający automatycznego bana po napisaniu na nim: <#1525426940327100426>
